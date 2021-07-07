@@ -1,9 +1,16 @@
 == Chapter I.
 
-Birth--Parentage--Early Impressions--Apprenticeship--Commences Business
-in Paris--Much Perplexity with his Partner--His Attendance of Meetings--Dissolution
-of Partnership and Relinquishing Business in Paris.
+[.chapter-synopsis]
+* Birth
+* Parentage
+* Early Impressions
+* Apprenticeship
+* Commences Business in Paris
+* Much Perplexity with his Partner
+* His Attendance of Meetings
+* Dissolution of Partnership and Relinquishing Business in Paris
 
+[.offset]
 +++[+++John Grant Sargent, the son of Isaac and Hester Sargent, was born at Paddington,
 near London, in the year 1813.
 When about nine years old, on the removal of his parents to Paris,
@@ -47,7 +54,7 @@ though I was not sufficiently acquainted with them at the time.
 I used to like walking alone in the fields,
 and was favoured to gather some strength from the
 perusal of a little book given me by Anne Bassett,
-called Guide to True Peace,
+called [.book-title]#Guide to True Peace,#
 which I believe tended in some measure to acquaint me with the intent of silent meetings.
 Towards the expiration of my time I became tired of the business,
 wishing after something less confining,
@@ -109,6 +116,7 @@ in addition to my wood-bending, there not being much doing in the latter.
 1836.--In this year I entered into partnership with Auguste Charlot,
 whom my father had known something of previously.
 
+[.offset]
 +++[+++About this time commenced a daily record of his life and conversation,
 from which the following are selected with a view to shew forth
 his watchful care that the unflattering Witness in the soul,
@@ -130,12 +138,15 @@ He read a chapter, and E. Fry spoke afterwards and appeared in prayer.
 11th.--Went to meeting; about 20 present.
 Father saw the Commissaire de Police, about a permission to hold our meeting.
 
+[.offset]
 +++[+++The following is a copy of the letter addressed by the Prefect
 to the Superintendent of the Police granting this request:
 
-Extract from a letter addressed the 3rd of April, 1838, by the Prefect of the Police,
-to the Superintendent of the Police of the City of
-Paris and in particular of the district du Bottle.
+[.embedded-content-document.letter]
+--
+
+[.blurb]
+=== Extract from a letter addressed the 3rd of April, 1838, by the Prefect of the Police, to the Superintendent of the Police of the City of Paris and in particular of the district du Bottle.
 
 The Minister of the Interior has directed the Prefect of the Police
 to authorize the holding of meetings of the Society of Friends
@@ -143,17 +154,29 @@ twice in the week in an apartment at No. 24 faubourg du Roule,
 subject to the following conditions, enjoined upon Mr. Isaac Sargent,
 member of the said Society.
 
-1st. Not to place any sign outside, or notice,
+[.numbered-group]
+====
+
+[.numbered]
+_1st._ Not to place any sign outside, or notice,
 indicating the performance of the worship carried on by him.
 
-2nd. That the said meetings shall only take place on Sunday and Thursday in each week.
+[.numbered]
+_2nd._ That the said meetings shall only take place on Sunday and Thursday in each week.
 
-3rd. Lastly,
+[.numbered]
+_3rd._ Lastly,
 that they shall always end and the chapel be closed at nine o`'clock in the evening.
 
+====
+
+[.signed-section-closing]
 Delivered as a true extract to Mr. Isaac Sargent,
 
+[.signed-section-context-close]
 Paris, this 18th of May, 1838.
+
+--
 
 3rd Month, 11th.--First day.
 Had a pleasant meeting.
@@ -797,7 +820,9 @@ in my doing this or that, my eye is not single unto Him who requireth such thing
 
 Read from William Penn`'s advice to his children called Fruits of a Father`'s Love:
 
-"`Fear God: shew it in desire, refraining and doing.
+[quote]
+____
+Fear God: shew it in desire, refraining and doing.
 Keep the inward watch: keep a clear soul, and a light heart.
 Mind an inward sense upon doing anything.
 When you read the Scripture remark the notablest places,
@@ -807,7 +832,7 @@ or in the will of man, no more than the Scripture did;
 and they may be lost by carelessness, and overgrowing thoughts and business of this life;
 so in perusing any other good or profitable book; yet rather meditate than read much.`"
 
-"`In conversation, mark well what others say or do, and hide your mind,
+In conversation, mark well what others say or do, and hide your mind,
 at least till last; and then open it as sparingly as the matter will let you.
 A just observation and reflection upon men and things, give wisdom;
 those are the great books of learning seldom read.
@@ -816,21 +841,22 @@ Be always on your watch, but chiefly in company;
 then be sure to have your wits about you, and your armour on: speak last and little,
 but to the point.`"
 
-"`Return no answer to anger, unless with much meekness, which often turns it away.`"
+Return no answer to anger, unless with much meekness, which often turns it away.`"
 "`It is a wrong time to vindicate yourselves,
 the true ear being then never open to hear it.`"
 
-"`Cast up your incomes and live on half,--if you can, one third;
+Cast up your incomes and live on half,--if you can, one third;
 reserving the rest for casualties, charities, portions.`"
 
-"`Be plain in clothes, furniture, and food,--but clean; and then the coarser the better:
+Be plain in clothes, furniture, and food,--but clean; and then the coarser the better:
 the rest is folly and a snare.
 Therefore, next to sin, avoid daintiness and choiceness about your person and houses;
 for if it be not an evil in itself, it is a temptation to it;
 and may be accounted a nest for sin to brood in.`"
 
-"`Be sure to draw your affairs into as narrow a compass as you can,
-and in method and proportion, time and other requisites proper for them.`"
+Be sure to draw your affairs into as narrow a compass as you can,
+and in method and proportion, time and other requisites proper for them.
+____
 
 Read this evening the 4th verse of the xvii.
 chapter of John, "`I have glorified Thee on the earth;
@@ -1231,6 +1257,9 @@ In it he informs me he was going to Portsmouth to join the good ship Mediator,
 on the 30th, for New York.
 In allusion to his leaving his family he says:
 
+[.embedded-content-document.letter]
+--
+
 It is no small trial and exercise of faith to have again
 to leave the yet surviving remnant of my beloved family,
 and nothing could induce me to do this,
@@ -1247,6 +1276,8 @@ and followeth after Me,
 is not worthy of Me;`" and unless our obedience keeps
 pace with the knowledge bestowed upon us,
 we had better never have known.
+
+--
 
 4th Month 1st.--Comprehended with more clearness some parts of Scripture.
 I believe my Heavenly Father is pleased to enlighten, in a degree,
@@ -1948,8 +1979,13 @@ and enlist me as a servant in his vineyard, to give me the wages which He may pl
 so that I may from time to time know the tokens of
 his heavenly love to the renewing of my strength!
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To Lydia Chalk.
 
+[.signed-section-context-open]
 Paris, 2nd of 5th month, 1840.
 
 How pleasant it is to me to know I have friends who are interested about me:
@@ -1995,7 +2031,10 @@ in upholding our principles has much to contend with in the cross to the natural
 but (it ought to be with thankfulness) I can say,
 hitherto I have been marvellously sustained in every trial, to my great encouragement.
 
+[.signed-section-signature]
 J+++.+++ G. Sargent.
+
+--
 
 8th.--We were seven in number at meeting today.
 This being likely to be the last time we shall sit down together
