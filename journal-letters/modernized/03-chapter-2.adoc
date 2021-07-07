@@ -1556,6 +1556,8 @@ I remain, your affectionate friend,
 [.signed-section-signature]
 John G. Sargent.
 
+--
+
 [.embedded-content-document.letter]
 --
 
@@ -1927,6 +1929,9 @@ I remain, your friend,
 [.signed-section-signature]
 T+++.+++ Drewry.
 
+--
+
+[.embedded-content-document.letter]
 --
 
 [.letter-heading]
