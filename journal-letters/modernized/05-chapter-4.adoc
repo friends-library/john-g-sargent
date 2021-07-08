@@ -1,11 +1,14 @@
 == Chapter IV.
 
-Visit to America Accompanied by M. Rickman and L.
-E+++.+++ Gilkes--Letters to his Wife--Letters to T. Drewry,
-D+++.+++ Koll, W. Hodgson, J. D. Otis, J. F. Marsh, P. Mitchell--Letters From D. Koll,
-W+++.+++ Hodgson--Letter to one of his Sons--Visit of W. C. Meader and
-J+++.+++ D. Otis to England--Reflections When on a Business Journey in
-France--Public Meetings at Fritchley and Monsal Dale.
+[.chapter-synopsis]
+* Visit to America Accompanied by M. Rickman and L. E+++.+++ Gilkes
+* Letters to his Wife
+* Letters to T. Drewry, D+++.+++ Koll, W. Hodgson, J. D. Otis, J. F. Marsh, P. Mitchell
+* Letters From D. Koll, W+++.+++ Hodgson
+* Letter to one of his Sons
+* Visit of W. C. Meader and J+++.+++ D. Otis to England
+* Reflections When on a Business Journey in France
+* Public Meetings at Fritchley and Monsal Dale.
 
 1868+++.+++ 4th month,
 2nd.--At our Conference meeting held in London I laid before Friends there a prospect
@@ -18,6 +21,7 @@ and that he has been pleased for my help and encouragement to say to my inward e
 and I will go with you.
 O that I may ever trust in Him!
 
+[.offset]
 +++[+++As will have been already gathered,
 our dear friend had by this time thoroughly lost confidence in London Yearly Meeting,
 and no longer attended the disciplinary meetings in connection therewith;
@@ -27,7 +31,10 @@ meeting in which he had confidence as a meeting of Friends.
 As however the Conference before which the matter was brought,
 was not an organized meeting, some hesitation was felt as to giving any credentials,
 but copies of the minutes made on the occasion were allowed to be taken,
-and are as follows:--
+and are as follows:--]
+
+[.embedded-content-document.minute]
+--
 
 At a meeting for Conference held in London on Fifth-day, the 2nd of Fourth Month, 1868,
 about the usual number of Friends were present.
@@ -49,6 +56,8 @@ consideration the concern of our dear Friends,
 and we feel that we can offer no obstruction to the prosecution
 of the service they believe to be required at their hands.
 
+--
+
 5th Month 8th--I left home in company with my wife and son
 P+++.+++ also our friends Matilda Rickman and Louisa E. Gilkes,
 for Liverpool in order to leave next day by the "`Russia`" steamer for New York.
@@ -61,10 +70,16 @@ in which the words ran through my mind "`The Lord is with us of a truth.`"
 This I do desire to remember with gratitude to the Father
 of all our mercies and our Lord and Saviour Jesus Christ.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To One of His Sons.
 
+[.signed-section-context-open]
 On board the "`Russia,`" 9th of 5th Month, 1868.
 
+[.salutation]
 My Dear +++_______+++,
 
 It is in my heart to write you a few lines if not more,
@@ -100,12 +115,21 @@ we ought to desire to be found for the short time any of us have below.
 My dear love flows to you and each one of you.
 Farewell very affectionately.
 
+[.signed-section-closing]
 From your loving father,
 
+[.signed-section-signature]
 John G. Sargent.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To His Wife.
 
+[.signed-section-context-open]
 On board the "`Russia,`" 9th of 5th Month, 1868.
 
 What favours, my beloved one, we enjoy and what peaceful minds,
@@ -134,6 +158,8 @@ as was expressed by L. E. G. in our little meeting this morning,
 "`Let others do as they may, as for me and my house,
 we will serve the Lord;`" so let every one of us be faithful
 to his call and in his service and all will be well.
+
+--
 
 10th.--Arrived this morning at about 8:30 off Cork Harbour.
 Favoured was my experience this morning on waking,
@@ -178,10 +204,16 @@ There might be a dozen persons present besides ourselves, and much quietness pre
 In the evening had a quiet opportunity with the steward;
 in this I felt particularly drawn to address him.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To His Wife.
 
+[.signed-section-context-open]
 On board the "`Russia,`" 11th of 5th Month, 1868.
 
+[.salutation]
 My Beloved Wife,
 
 I have been favoured with comfortable feelings in looking at this important stepping,
@@ -225,7 +257,10 @@ going before or staying behind our good Guide,
 that so I may not miss of the reward,
 and be favoured to return to you and you in the right time.
 
+[.signed-section-signature]
 J+++.+++ G. Sargent.
+
+--
 
 20th.--We moved into the dock early,
 and landed it might be 9:30 a.m. Were truly welcomed by dear William Hodgson who met us.
@@ -337,10 +372,16 @@ every place and for all He requires of us.
 wherein I desired to be found faithful and was helped to be so,
 to the obtaining of solid peace.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To One of His Sons.
 
+[.signed-section-context-open]
 Newport, Rhode Island, 17th of 6th Month, 1868.
 
+[.salutation]
 My Very Dear Boy,
 
 I have wished to write to you, and now take the pen to do so,
@@ -373,11 +414,16 @@ I think much of you all,
 and would set off at once to join you again gladly
 if I knew I could find peace in so doing.
 
+[.signed-section-closing]
 With very dear love, I remain,
 
+[.signed-section-closing]
 Your very affectionate father,
 
+[.signed-section-signature]
 John G. Sargent.
+
+--
 
 18th.--The usual meeting for worship was held this morning--a relieving time.
 
@@ -449,10 +495,16 @@ for the abiding of the Lord in his temple.
 Supplicated at the close that the Lord would unloose the bands of wickedness,
 and let the oppressed go free.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To One of His Sons.
 
+[.signed-section-context-open]
 Ulysses, 12th of 7th Month, 1868.
 
+[.salutation]
 My Dear +++_______+++,
 
 You have been, as well as all of you, much on my mind from time to time,
@@ -515,11 +567,16 @@ and it is to be feared a very small number of their population moving in the
 Divine fear and minding the strivings of the heavenly Monitor within them,
 in their hearts.
 
+[.signed-section-closing]
 With very dear love to you, my dear boy, I am
 
+[.signed-section-closing]
 Your very affectionate father,
 
+[.signed-section-signature]
 John G. Sargent.
+
+--
 
 13th.--Left Ulysses for Bath.
 
@@ -544,10 +601,16 @@ with more, to the relief of my mind.
 
 22nd.--Attended Monthly Meeting here and came away with a relieved mind.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 From Daniel Koll.
 
+[.signed-section-context-open]
 Salem, 23rd 7th Month, 1868.
 
+[.salutation]
 My Dear Friend,
 
 In that fire of love that Christ has kindled through mercy in our hearts,
@@ -579,9 +642,13 @@ be melted more and more in oneness, until we become one in our Lord and Saviour,
 being thus prepared to enter into eternal rest, peace, joy, and glory.
 Amen.
 
+[.signed-section-closing]
 Your sincere friend and brother,
 
+[.signed-section-signature]
 Daniel Koll.
+
+--
 
 24th.--Left Philadelphia for Nottingham, Maryland.
 
@@ -668,10 +735,16 @@ and gave expression thereto, acknowledging that we have one debt more due unto o
 and desiring that we may pay it henceforth,
 and abundantly utter the memory of his great goodness to us each one.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To W. Hodgson.
 
+[.signed-section-context-open]
 Fritchley, 18th of 8th Month, 1868.
 
+[.salutation]
 My Dear Friend,
 
 In a deep sense of the lovingkindness of our great Protector and keeper,
@@ -729,9 +802,14 @@ who came on here with us.
 On First-day evening our meeting was well attended, all our seats being occupied,
 and it was a favoured time together.
 
+[.signed-section-closing]
 I am your sincerely obliged friend,
 
+[.signed-section-signature]
 John G. Sargent.
+
+[.postscript]
+====
 
 P+++.+++ S.--While making allusion to the great kindness shown to me by my dear friends,
 I desire to acknowledge it with thankfulness unto the Giver of all good,
@@ -740,14 +818,26 @@ as we yield unto his impressions,
 and who opens a door in the heart one unto another where
 and in whomsoever the true love of the Father exists.
 
+[.signed-section-closing]
 Farewell, my dear friend,
 
+[.signed-section-signature]
 J+++.+++ G. S.
 
+====
+
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To Thomas Drewry.
 
+[.signed-section-context-open]
 Fritchley, 2nd of 9th Month, 1868.
 
+[.salutation]
 My Dear Friend,
 
 You have been with me in thought sometimes since
@@ -806,14 +896,24 @@ but as matter has come so I give it to you and trust it will be received in the
 love in which it seems to spring forth from the heart to the guiding of the pen.
 In a feeling of weakness, I remain
 
+[.signed-section-closing]
 Your friend sincerely,
 
+[.signed-section-signature]
 John G. Sargent.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To William Hodgson.
 
+[.signed-section-context-open]
 Fritchley, 18th of 10th Month, 1868.
 
+[.salutation]
 My Dear Friend,
 
 I have this morning received your welcome and very acceptable letter,
@@ -876,12 +976,21 @@ encouragement was felt to come thereby and comfort,
 though this with opposition too, yet kept under.
 The subject of replies is deferred.
 
+[.signed-section-signature]
 John G. Sargent.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To William Hodgson.
 
+[.signed-section-context-open]
 Fritchley, 29th of 12th Month, 1868.
 
+[.salutation]
 My Dear Friend,
 
 We are as a Conference in a trying position now;
@@ -930,14 +1039,24 @@ for all good springs from one Source, the Source of all good,
 and his instruments love one another.
 May this continue and abound, and it will do so, if our love for Him does so.
 
+[.signed-section-closing]
 Your affectionate friend,
 
+[.signed-section-signature]
 John G. Sargent.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To William Hodgson.
 
+[.signed-section-context-open]
 Fritchley, 28th of 1st Month, 1869.
 
+[.salutation]
 My Dear Friend,
 
 I expect our dear friend L. E. Gilkes gave you very full
@@ -1028,12 +1147,21 @@ May you all hold comfort in the belief that it is well with him: no more sorrow,
 no more anxiety, no more uncertainty,
 but that certainty and that security which is of and in the Truth.
 
+[.signed-section-closing]
 I remain your nearly united friend,
 
+[.signed-section-signature]
 John G. Sargent.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To His Wife.
 
+[.signed-section-context-open]
 Lille, 29th of 3rd Month, 1869.
 
 I am hoping to be at Croydon this day week if so permitted: do not see what time,
@@ -1062,12 +1190,20 @@ but peace and thankfulness of heart before Him,
 who is known by waiting upon and for Him to be the joy of the whole earth;
 who is like unto Him?
 
-To James 500. Otis.^
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
+To James D. Otis.^
 footnote:[A worthy Elder of New York Yearly Meeting,
 who bore a faithful testimony against the innovations of our day.]
 
+[.signed-section-context-open]
 Fritchley, 6th of 5th Month, 1869.
 
+[.salutation]
 My Dear Friend,
 
 We have been holding our little Monthly Meeting today here,
@@ -1081,9 +1217,15 @@ to you as Clerk of the Yearly Meeting,
 to be held at Poplar Ridge (as we suppose), this month,
 for the judgment of Friends as to the reading of them among you
 
+[.signed-section-signature]
 John G. Sargent.
 
+--
+
 The following is a copy of the minutes referred to:--
+
+[.embedded-content-document.minute]
+--
 
 At a Meeting held at Fritchley at the close of one for worship, the 6th of 5th month,
 1869, it was felt to be the judgement of Truth, that a book of record should be kept,
@@ -1104,10 +1246,18 @@ and desires for the preservation of our dear friends,
 and their steadfast walking in the Truth; for the upholding of which,
 in its ancient purity and simplicity, a testimony is borne by them in that land.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To William Hodgson.
 
+[.signed-section-context-open]
 Fritchley, 25th of 7th Month, 1869.
 
+[.salutation]
 My Dear Friend,
 
 My mind turns towards you and other dear friends whom we visited last year.
@@ -1149,14 +1299,24 @@ it did not feel to be our place to stop the holding of them,
 but it did feel the continuance of them hangs upon a slender thread.
 The next was concluded to be held at Birmingham, in the 10th month.
 
+[.signed-section-closing]
 Your affectionate friend,
 
+[.signed-section-signature]
 John G. Sargent.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To Thomas Drewry.
 
+[.signed-section-context-open]
 Fritchley, 13th of 11th Month, 1869.
 
+[.salutation]
 My Dear Friend,
 
 I noticed your remarks in answer to my request which do not convince me.
@@ -1189,9 +1349,13 @@ We are still pleased to see our friends and can shake by the hand
 any of those who have been accustomed to meet with us,
 wishing them well.
 
+[.signed-section-closing]
 With love, your friend sincerely,
 
-John G. Sargent,
+[.signed-section-signature]
+John G. Sargent.
+
+--
 
 1869+++.+++ 11th Month 14th.--Was helped in meeting; felt constrained to declare that a busy,
 active mind finds it hard work to get into stillness inwardly,
@@ -1200,10 +1364,16 @@ even as through a night and unto the break of day,
 as did the patriarch of old:--alluded to his leaning upon his staff as typical of our
 leaning upon the Lord as our staff and worshipping Him when thus met together.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To William Hodgson.
 
+[.signed-section-context-open]
 Fritchley, 25th of 11th Month, 1869.
 
+[.salutation]
 My Dear Friend,
 
 It has been gratifying to us and cause for thankfulness that our two dear
@@ -1227,14 +1397,24 @@ and be enabled to rejoice and praise the Lord in
 the knowledge of fruit being brought forth,
 answerable to the travail of your soul for the good of Israel.
 
+[.signed-section-closing]
 I am your friend,
 
+[.signed-section-signature]
 John G. Sargent.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To John F. Marsh.
 
+[.signed-section-context-open]
 Fritchley, 28th of 11th Month, 1869.
 
+[.salutation]
 My Beloved Friend,
 
 A feeling of love this evening flows through my mind towards you
@@ -1286,9 +1466,13 @@ and O, that the day`'s work may keep pace with the day and that the answer may b
 "`Well done, good and faithful servant!`" this I can desire truly for you and ourselves.
 With very dear love to you both in that which remains forever, I trust I can say,
 
+[.signed-section-closing]
 I am your affectionate friend,
 
+[.signed-section-signature]
 John G. Sargent.
+
+--
 
 12th Month 7th.--Our two friends William C. Meader and James 500. Otis arrived at Liverpool,
 where I met them and brought them to Fritchley.
@@ -1458,6 +1642,10 @@ they not wishing to sit with me or not putting forward to do so, which I could n
 expect they would.
 Dined at Robert Smeal`'s.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To Peleg Mitchell.^
 footnote:[Peleg Mitchell was an esteemed member and elder
 of Nantucket Monthly Meeting of the Society of Friends.
@@ -1479,8 +1667,10 @@ and his faith strong that there would be one left to uphold the ancient standard
 He died at his residence, Nantucket, Massachusetts, U.S.+++,+++
 on the 1st of 8th Month, 1882, aged 80 years.]
 
+[.signed-section-context-open]
 Fritchley, 27th of 8th Month, 1870.
 
+[.salutation]
 My Dear Friend,
 
 It is very pleasant to see again your handwriting.
@@ -1538,12 +1728,21 @@ I will now bid you farewell and am affectionately,
 
 Your very nearly united friend in the best of bonds,
 
+[.signed-section-signature]
 J+++.+++ G. Sargent.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To Peleg Mitchell.
 
+[.signed-section-context-open]
 Fritchley, 15th of 5th Month, 1871.
 
+[.salutation]
 My Dear Friend,
 
 I recur with interest to the time when we met.
@@ -1580,14 +1779,24 @@ but that we may be enabled to war a good warfare and that others seeing
 and feeling the earnestness of our spirits may also follow on and gain
 a crown of righteousness and everlasting glory that fades not away.
 
+[.signed-section-closing]
 Your friend in the love of the Truth,
 
+[.signed-section-signature]
 J+++.+++ G. Sargent.
 
-To James 500. Otis.
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
+To James D. Otis.
+
+[.signed-section-context-open]
 Fritchley, 18th of 8th Month, 1871.
 
+[.salutation]
 Dear Friend,
 
 We are favoured from time to time, I believe I can truly say,
@@ -1634,9 +1843,13 @@ May all your trials (your trials) work together for a furtherance in the same
 heavenly knowledge and undoubtedly it will if there is a standing maintained,
 by the Master.
 
+[.signed-section-closing]
 From your friend and brother,
 
+[.signed-section-signature]
 John G. Sargent.
+
+--
 
 1871+++.+++ 10th Month 8th.--At Lille.
 First-day: Have had my times of waiting and labouring, I trust I may say,
@@ -1663,10 +1876,16 @@ There is indeed peace in well-doing--in doing the Master`'s will.
 Have cause for thankfulness,
 to the great Preserver and Helper in this journey who has enabled me to return in peace.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 From W. Hodgson.
 
+[.signed-section-context-open]
 Philadelphia, 2nd of 12th Month, 1871.
 
+[.salutation]
 My Dear Friend,
 
 Your allusion to the young people among you re-awakened a feeling
@@ -1693,7 +1912,10 @@ been departed from by them in their schismatic course
 
 With dear love to you all, I am your friend and brother,
 
+[.signed-section-signature]
 W+++.+++ Hodgson.
+
+--
 
 12th Month 11th.--A public meeting for worship was held in the Mill which was well attended.
 It was Matilda Rickman`'s concern to hold it for the inhabitants of Fritchley,
@@ -1715,10 +1937,16 @@ The meeting felt a solemn time, and the people (perhaps 150), were quiet and ord
 and we may trust some good seed was sown in ground that
 will bring forth fruit to the praise of the great Husbandman.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To Peleg Mitchell.
 
+[.signed-section-context-open]
 Fritchley, 25th of 12th Month, 1871.
 
+[.salutation]
 My Dear Friend,
 
 Were love measured by space of time between our communications,
@@ -1761,7 +1989,10 @@ if there be faithfulness and a watching to the pointing of his heavenly finger.
 I will now bid you farewell in the love of the Gospel which is the unchangeable Truth,
 and am your friend,
 
+[.signed-section-signature]
 John G. Sargent.
+
+--
 
 1872+++.+++ 1st Month 18th.--A public meeting was held
 at Monsal Dale in the house of +++_______+++ Shaw:
