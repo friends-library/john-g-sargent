@@ -1,14 +1,24 @@
 == Chapter II.
 
-Arrival in England--Visits his Relations and Friends--Accompanies
-John and Edward Pease to Pyrmont,
-Minden,
-and the South of France--Visits Paris on Several Occasions--Accompanies A. A. Jenkins,
-and William and Mary Forster,
-to the South of France--Removes to Kimberley in Norfolk--Enters Upon a Farm in Surrey--His
-Marriage--Removes to Ireland--Writes an Epistle of Love and Caution--Reflections--Letters
-to L. A. Barclay--P. Rickman--J. Sargent--J. G. Hayman--W. Hodgson--J. F. Marsh--T.
-Drewry And I. B. Letters From W. Hodgson and T. Drewry
+[.chapter-synopsis]
+* Arrival in England
+* Visits his Relations and Friends
+* Accompanies John and Edward Pease to Pyrmont, Minden, and the South of France
+* Visits Paris on Several Occasions
+* Accompanies A. A. Jenkins, and William and Mary Forster, to the South of France
+* Removes to Kimberley in Norfolk
+* Enters Upon a Farm in Surrey
+* His Marriage
+* Removes to Ireland
+* Writes an Epistle of Love and Caution
+* Reflections
+* Letters to L. A. Barclay
+* P. Rickman
+* J. Sargent
+* J. G. Hayman
+* W. Hodgson
+* J. F. Marsh
+* T. Drewry And I. B. Letters From W. Hodgson and T. Drewry
 
 1842+++.+++ 5th Month 15th.--Reached London a little after one
 p.m. Left direct for Kingston and went to meeting there:
@@ -87,13 +97,13 @@ O that I may know his leadings and drawings!
 
 28th.--
 
-"`Be simply faithful to thy inward Guide,
-
+[verse]
+____
+Be simply faithful to thy inward Guide,
 Heedless of mortal laugh or mortal frown,
-
 And in thy Maker`'s service fortified,
-
-Fear not the cross, for that secures the crown.`"
+Fear not the cross, for that secures the crown.
+____
 
 6th Month 27th.--Quarterly meeting +++[+++for London and Middlesex]
 which was adjourned till five o`'clock in the afternoon.
@@ -138,6 +148,10 @@ to become a fool among them seems required of me if I would have peace.
 It seems as though I am in my appointed place,
 and that there is work for me here in the Master`'s cause,--the Truth as it is in Jesus.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To Lydia A. Barclay.^
 footnote:[Lydia Ann Barclay was born at Clapham in 1799.
 Her parents were Robert and Ann Barclay,
@@ -206,9 +220,11 @@ but also to caution against any connivance or compromise with it,
 either through the fear of man, or under the specious plea of charity and forbearance.
 She died at Cockermouth, the 31st of 1st month, 1855, aged 55 years.]
 
+[.signed-section-context-open]
 Paris.
 11th of 9th Month, 1843.
 
+[.salutation]
 My Dear Friend,
 
 It has been much on my mind of late to write to you,
@@ -264,7 +280,10 @@ Sometimes there are three of us, or may be four.
 Farewell.
 I am your sincere and affectionate friend,
 
+[.signed-section-signature]
 John G. Sargent.
+
+--
 
 9th Month 24th.--In my bedroom before going to rest under
 a desire that I might be directed as to my anticipated journey^
@@ -347,6 +366,7 @@ which does appear to be an earnest of his will as a seal to my anticipated stepp
 
 20th.--Left Paris for Southampton.
 
+[.offset]
 +++[+++After his return to England when under much proving,
 not seeing any way to go forward in business,
 he was requested to accompany Edward and John Pease on a visit to Friends in Minden,
@@ -448,6 +468,7 @@ blessings and favours which He confers upon me,
 for truly He loads me with benefits in every way when I stand in need,
 forever blessed be his holy Name.
 
+[.offset]
 +++[+++In the Twelfth Month of this year he was united in marriage with Catherine Doubell,
 of Reigate.]
 
@@ -456,10 +477,16 @@ in the afternoon was born to us a son,
 our first born--how great thankfulness seems due for the
 Lord`'s many favours to us his dependent creatures.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To Priscilla Hickman.
 
+[.signed-section-context-open]
 Bregsell Farm, 11th of 2nd Month, 1850.
 
+[.salutation]
 My Dear Friend,
 
 What a remarkable event has occurred to you:^
@@ -485,9 +512,13 @@ so that on the one hand our love for Him is increased,
 and when some earthly things are taken from us, on the other,
 the vanity of all perishing things is shown to us.
 
+[.signed-section-closing]
 Your sincerely affectionate friend,
 
+[.signed-section-signature]
 John G. Sargent.
+
+--
 
 1851+++.+++ 11th Month 20th.--I left Bregsell on my way to Ireland via.
 Waterford to Moate, the object of this journey being to see for myself,
@@ -507,6 +538,7 @@ and the trust was with me that no harm was done, and that I had not erred.
 
 1852+++.+++ 1st month 6th.--Went to London with my family on my way to Ireland.
 
+[.offset]
 +++[+++Here they remained until the year 1854,
 when again was the language realized "`This is not
 your rest,`" and in a remarkable manner,
@@ -518,11 +550,19 @@ The following epistle was written during his residence in Ireland at a period wh
 individual from America was causing much grief to Friends in England and Ireland,
 and was extensively circulated.]
 
+[.embedded-content-document.epistle]
+--
+
+[.letter-heading]
 An Epistle of Love and Caution to the Tender-hearted Everywhere.
 
-"`For many shall come in my name, saying, I am Christ,
-and shall deceive many.`"--Matthew 24:5.
+[quote.scripture, , Matthew 24:5]
+____
+For many shall come in my name, saying, I am Christ,
+and shall deceive many.
+____
 
+[.salutation]
 My Beloved Friends, Brethren And Sisters,
 
 You who are dear and precious to me in the everlasting covenant of Light and Life,
@@ -610,7 +650,7 @@ and another love of the Father--the one proceeding from the world and owned by t
 and the other proceeding from the Father and owned by the Father.
 Let us beware of "`the foxes that spoil the vines.`"
 
-And this is worthy of our consideration--+++[+++See Shewen`'s Meditations,
+And this is worthy of our consideration--+++[+++See [.book-title]#Shewen`'s Meditations#,
 pages 27 and 28]:--"`We are now come to the true and living way, the ancient path,
 in which the righteous in all ages ever walked.
 Now this remains, that we always feel our hearts engaged to walk in this way,
@@ -645,10 +685,18 @@ I would say in humility of soul before the Lord--Beware of the leaven,
 the outward leaven, which would leaven into its own likeness.--Let the inward leaven,
 the precious leaven of the Kingdom, be your mainstay and support.--Farewell in the Lord.
 
+[.signed-section-signature]
 J+++.+++ G. Sargent.
 
+[.signed-section-context-close]
 2nd of 6th Month, 1853.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To Jane Sargent.^
 footnote:[This dear friend was one, who through a long course of years,
 maintained an exemplary life and conduct consistent with her religious profession.
@@ -715,8 +763,10 @@ of the little company with whom she had united herself,
 though in consequence of her great age and weakened faculties, much was not expressed.
 She died at Fritchley on the 26th of 8th month, 1882, aged nearly 94 years.]
 
+[.signed-section-context-open]
 Hall, near Moate, Ireland, 28th of 1st Month, 1854.
 
+[.salutation]
 My Dear Aunt,
 
 Some account of dear John Wilbur, and his son, since they came to us, seems due to you,
@@ -846,10 +896,18 @@ John Wilbur felt clear of Waterford without staying a meeting there;
 accordingly left by steam-boat for Bristol.
 It was a favour to have them with us, and we can but miss them now greatly.
 
+[.signed-section-closing]
 Your affectionate nephew,
 
+[.signed-section-signature]
 John G. Sargent.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To John George Hayman.^
 footnote:[This dear Friend was born at Hersfeld, in Germany, in 1803,
 and came to England, where he resided at or near Lindfield, in Sussex,
@@ -881,8 +939,10 @@ borne a faithful testimony to the Truth in his day and generation,
 he departed this life in great peace, on the 9th of 8th month, 1870, at the Holmwood,
 near Dorking, Surrey, aged 67 years.]
 
+[.signed-section-context-open]
 Hall, 9th of 2nd Month, 1854.
 
+[.salutation]
 Dear George,
 
 I have very much feared that my long silence in this way
@@ -962,10 +1022,18 @@ may the richest of blessings continue to be yours,
 may the light of the Most High very often cheer you on your way,
 and may both of us know daily preservation from the Lord.
 
+[.signed-section-closing]
 Your sincere and affectionate friend,
 
+[.signed-section-signature]
 John G. Sargent.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To William Hodgson.^
 footnote:[William Hodgson was born at Sheffield in 1804,
 of parents who were members of the Society of Friends.
@@ -1021,8 +1089,10 @@ without doubt,
 form a valuable contribution to the history of Friends as a distinct people.
 He died at Philadelphia, on the 24th of 12th month, 1878, in the 75th year of his age.]
 
+[.signed-section-context-open]
 Cockermouth, 30th of 3rd Month, 1855.
 
+[.salutation]
 Dear Friend,
 
 I fear you have thought me remiss in not writing to you respecting
@@ -1050,14 +1120,24 @@ It was a comfort to us to be with her at this solemn period.
 The desire now seems to prevail, to follow her as she followed Christ.
 With the love of myself and wife,
 
+[.signed-section-closing]
 I remain your sincere friend,
 
+[.signed-section-signature]
 John G. Sargent.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 From William Hodgson.
 
+[.signed-section-context-open]
 Philadelphia, 10th of 6th Month, 1855.
 
+[.salutation]
 My Dear Friend,
 
 London Yearly Meeting appears to be in a lamentable condition indeed.
@@ -1104,14 +1184,24 @@ so that they might be favoured by the Lord`'s gracious help,
 to see the stratagems of the cunning adversary,
 and clearly to understand the fearful lapse that has come upon us.
 
+[.signed-section-closing]
 Your friend,
 
+[.signed-section-signature]
 W+++.+++ Hodgson.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To Priscilla Rickman.
 
+[.signed-section-context-open]
 Cockermouth, 12th of 10th Month, 1856.
 
+[.salutation]
 My Beloved Friend,
 
 I write as I feel, that you are still given up in heart to serve the Lord,
@@ -1160,14 +1250,24 @@ and fail not my dear sister in the Truth, to hand, when enabled to do so,
 a word of caution or encouragement to a brother who I dare to believe and hope,
 knows that without Him he is nothing, but with Him he can be all things that He requires.
 
+[.signed-section-closing]
 Your affectionate friend,
 
+[.signed-section-signature]
 John G. Sargent.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To William Hodgson.
 
+[.signed-section-context-open]
 Cockermouth, 19th of 10th Month, 1856.
 
+[.salutation]
 My Dear Friend,
 
 What a favour it feels to be now and then to meet with those,
@@ -1199,14 +1299,24 @@ much feeling in regard to the love of change now prevailing in our Society,
 I fear to our hurt,
 and the hindrance of a growth in the precious Truth to a very great extent.
 
+[.signed-section-closing]
 Your friend,
 
+[.signed-section-signature]
 John G. Sargent.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To John Finch Marsh.
 
+[.signed-section-context-open]
 Cockermouth, 27th of 11th Month, 1856.
 
+[.salutation]
 My Beloved Friend,
 
 In looking a little at debts due in letter writing and intentions not yet carried out,
@@ -1252,14 +1362,24 @@ thus keeping above all that is not of God, and contrary to the Truth;
 and in which Power it is intended, I believe,
 that we should not be in any way hurt or unduly cast down.
 
+[.signed-section-closing]
 I am, very affectionately, your friend,
 
+[.signed-section-signature]
 John G. Sargent.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To Priscilla Rickman.
 
+[.signed-section-context-open]
 Cockermouth, 19th of 8th Month, 1857.
 
+[.salutation]
 My Very Dear Friend,
 
 I wish if only by a few words on paper,
@@ -1304,9 +1424,13 @@ which cries Abba, Father, and prevails with Him.
 Let us hope to the end,
 for we believe that all things work together for good to the obedient soul.
 
+[.signed-section-closing]
 Your very affectionate friend,
 
+[.signed-section-signature]
 John G. Sargent.
+
+--
 
 1858, 3rd Month 4th.--To meeting in Belfast.
 Fresh cause to rejoice in the Lord my Saviour,
@@ -1323,10 +1447,16 @@ Seek therefore first the Kingdom and the worship and service of our holy Redeeme
 and truly all things needful may be looked for, according to the promise in Scripture,
 "`All things needful shall be added unto you.`"
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To Thomas Drewry.
 
+[.signed-section-context-open]
 Cockermouth, 24th of 5th Month, 1858.
 
+[.salutation]
 Dear Friend,
 
 I have not felt it laid upon me to attend the Yearly Meeting.
@@ -1346,14 +1476,24 @@ that hereon and herein is our life given us as it were for a prey.
 May we my dear friend, be of this number,
 who are of those whom the Lord says shall be his when He makes up his jewels
 
+[.signed-section-closing]
 With love, your affectionate friend,
 
+[.signed-section-signature]
 John G. Sargent.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To Priscilla Rickman.
 
+[.signed-section-context-open]
 Cockermouth, 31st of 12th Month, 1858.
 
+[.salutation]
 My very dear Friend,
 
 I have not given you any particulars of the late Conference,
@@ -1410,12 +1550,21 @@ and as though there was nothing for me to do there,
 yet I felt constrained and raised up for service, both (I believe) to reprove for error,
 and contend for right things (the Truth).
 
+[.signed-section-closing]
 I remain, your affectionate friend,
 
+[.signed-section-signature]
 John G. Sargent.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To Priscilla Rickman.
 
+[.signed-section-context-open]
 Cockermouth, 17th of 3rd Month, 1859.
 
 Since I wrote to you last I have been on a French journey, with, I believe, good success,
@@ -1427,14 +1576,24 @@ nevertheless my view is that it has to be borne at home or abroad,
 and that the Spirit of Truth requires the truth at our hands if we would be clean-handed,
 as much in one place as in another.
 
+[.signed-section-closing]
 Your affectionate friend,
 
+[.signed-section-signature]
 John G. Sargent.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To Thomas Drewry.
 
+[.signed-section-context-open]
 Cockermouth, 18th of 7th Month, 1859.
 
+[.salutation]
 Dear Friend,
 
 It needs not many words to acquaint you that I unite with you,
@@ -1504,14 +1663,24 @@ I have written in so much haste as the matter has flowed that perhaps,
 you will have difficulty to read it.
 In the meantime farewell, with our united love.
 
-Your affectionate friend.
+[.signed-section-closing]
+Your affectionate friend,
 
+[.signed-section-signature]
 John G. Sargent.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 From Thomas Drewry.
 
+[.signed-section-context-open]
 Fleetwood, 28th of 7th Month, 1859.
 
+[.salutation]
 Dear Friend,
 
 The views penned by you have somewhat taken hold of my mind.
@@ -1572,14 +1741,24 @@ We should be as a city set on a hill; we should have need of best help,
 which I have faith to believe would be afforded,
 as it was our desire to serve and obey Him in our day and generation.
 
+[.signed-section-closing]
 Your affectionate friend,
 
+[.signed-section-signature]
 Thomas Drewry.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To Thomas Drewry.
 
+[.signed-section-context-open]
 Cockermouth, 14th of 8th Month, 1859.
 
+[.salutation]
 Dear Friend,
 
 Your acceptable letter came to hand in course,
@@ -1608,14 +1787,24 @@ each of us, to strengthen where we can in that which we believe in, as Truth,
 and endeavour, while striving to keep therein ourselves, to build up in the same,
 though the extension of our views be not at present carried out.
 
+[.signed-section-closing]
 I remain your affectionate friend,
 
+[.signed-section-signature]
 J+++.+++ G. Sargent.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To Thomas Drewry.
 
+[.signed-section-context-open]
 Cockermouth, 9th of 10th Month, 1859.
 
+[.salutation]
 My Dear Friend,
 
 I fear it may almost seem negligent my not sooner replying to your acceptable letter,
@@ -1665,15 +1854,25 @@ Use all freedom in writing and be faithful at all times to your Master,
 to others and to yourself, and the Lord will bless you.
 Farewell.
 
+[.signed-section-closing]
 Your affectionate friend,
 
+[.signed-section-signature]
 J+++.+++ G. Sargent.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 From Thomas Drewry.
 
+[.signed-section-context-open]
 Fleetwood, 28th of 2nd Month.
 1860.
 
+[.salutation]
 Dear Friend,
 
 You will I dare say think me a long time in replying
@@ -1724,14 +1923,24 @@ close his mind against the perusal of Wilbur.
 I felt grieved to find one in his station so disinclined
 to inform himself on such vital points.
 
+[.signed-section-closing]
 I remain, your friend,
 
+[.signed-section-signature]
 T+++.+++ Drewry.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To Thomas Drewry.
 
+[.signed-section-context-open]
 Cockermouth, 15th of 4th Month, 1860.
 
+[.salutation]
 Dear Friend,
 
 I may inform you with regard to the subject,
@@ -1805,10 +2014,15 @@ How lovely are they in their lives!
 I feel I can say in beholding them in my mind`'s eye, "`How goodly are your tents,
 O Jacob, and your tabernacles, O Israel!!`"
 
+[.signed-section-closing]
 Your affectionate friend,
 
+[.signed-section-signature]
 John G. Sargent.
 
+--
+
+[.offset]
 +++[+++The following letter is the expression of the concern so much
 resting upon the mind of our dear friend about this period,
 showing what appeared to him to be needful for the welfare and preservation of the flock.
@@ -1819,8 +2033,13 @@ The result, however,
 was that a few were encouraged to meet together in the way described,
 and more or less have continued to do so to the present time.]
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Cockermouth, 4th Month, 1860.
 
+[.salutation]
 My Beloved Friends,
 
 In that which changes not, and of which by the grace of the Father,
@@ -1937,12 +2156,21 @@ and the Counsellor of his people Israel.
 So, dearly beloved friends, farewell in the Lord,
 who is over us and in us while we are his by obedience to his spirit within us.
 
+[.signed-section-signature]
 John G. Sargent.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To William Hodgson.
 
+[.signed-section-context-open]
 Cockermouth, 26th of 4th Month, 1860.
 
+[.salutation]
 My Dear Friend,
 
 It has been very comforting to my mind from time to time to know through your
@@ -1975,10 +2203,18 @@ and will serve Him in the way too in which He may require,
 though it be to the casting of us out from among
 those whom we ought to be able to claim as brethren.
 
+[.signed-section-signature]
 John G. Sargent.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 From William Hodgson.
 
+[.signed-section-context-open]
 Philadelphia, 4th of 6th Month, 1860
 
 Having recently written to my dear friend Thomas Drewry,
@@ -2099,9 +2335,13 @@ elders and overseers, and well-concerned young people.
 But we must now expect that certain machinery will be set a-going
 to thwart the concern and throw cold water upon it.
 
+[.signed-section-closing]
 With true unity and love, your friend,
 
+[.signed-section-signature]
 W+++.+++ Hodgson.
+
+--
 
 1860+++.+++ 8th Month 11th.--On awaking this morning,
 "`The Lord`'s hand is not shortened that it cannot save,
@@ -2118,10 +2358,16 @@ that there is the gaining ground upon the poor weak vessel,
 as on the other hand there is the escaping the snare by turning
 a deaf ear and shutting the eye of the mind to his suggestions.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To William Hodgson.
 
+[.signed-section-context-open]
 Cockermouth, 14th of 8th Month, 1860.
 
+[.salutation]
 My Dear Friend,
 
 Your letter was very acceptable, and I thought to have replied sooner.
@@ -2204,14 +2450,24 @@ even the rubbish at our walls, which, when it is removed,
 some will be accounted worthy to build and restore,
 that that which is impure may not enter.
 
+[.signed-section-closing]
 I am your friend,
 
+[.signed-section-signature]
 John G. Sargent.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To Thomas Drewry.
 
+[.signed-section-context-open]
 Cockermouth, 23rd of 8th Month, 1860.
 
+[.salutation]
 My Dear Friend,
 
 I have been reading over the paragraph in the epistle
@@ -2267,14 +2523,24 @@ It must be painful indeed to be in that position,
 and I also believe that a Friend who is faithful to ancient principle cannot occupy it,
 unless it be in some isolated case; we are as a body so far departed from it.
 
+[.signed-section-closing]
 I remain, your affectionate friend,
 
+[.signed-section-signature]
 John G. Sargent.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 From Thomas Drewry.
 
+[.signed-section-context-open]
 Fleetwood, 8th of 11th Month, 1860.
 
+[.salutation]
 My Dear Friend,
 
 I felt glad that the paragraph in the last Yearly Meeting`'s epistle,
@@ -2323,14 +2589,24 @@ and their attempts to preach like Friends, and to pass themselves off as Friends
 are not one whit more culpable than for the Gurneyites to
 preach like Friends and pass themselves off as Friends.
 
+[.signed-section-closing]
 With love, etc.
 
+[.signed-section-signature]
 Thomas Drewry.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 From W. Hodgson.
 
+[.signed-section-context-open]
 Philadelphia, 30th of 12th Month, 1860.
 
+[.salutation]
 My Dear Friend,
 
 I was sorry to find that no perceptible result ensued from
@@ -2375,14 +2651,24 @@ And I long that some may truly realize this and seek to know a preparation of he
 so that the Master may find qualified instruments to his hand when
 he may arise to shake terribly that which is of the earth.
 
+[.signed-section-closing]
 I am affectionately, your friend,
 
+[.signed-section-signature]
 W+++.+++ Hodgson.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To William Hodgson.
 
+[.signed-section-context-open]
 Cockermouth, 11th of 4th Month, 1861.
 
+[.salutation]
 My Dear Friend,
 
 For a long time past I have desired to salute you in a measure of (I trust) that fellowship
@@ -2439,14 +2725,24 @@ but we must cleave to the Lord through all in this
 day of apostasy and backsliding among us.
 Farewell in that love which is deeper than words.
 
+[.signed-section-closing]
 I am, your friend,
 
+[.signed-section-signature]
 John G. Sargent.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To Thomas Drewry.
 
+[.signed-section-context-open]
 London, 2nd of 6th Month, 1861.
 
+[.salutation]
 My Dear Friend,
 
 I received your acceptable lines, and since then have been, as you may suppose,
@@ -2521,14 +2817,24 @@ trusting that He who knows the hearts and what is
 the desire thereof will stand by us and be in us,
 strengthening us to be faithful to Him and to one another.
 
+[.signed-section-closing]
 Farewell from your sympathising and affectionate friend,
 
+[.signed-section-signature]
 John G. Sargent.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 From Thomas Drewry.
 
+[.signed-section-context-open]
 Barrow-in-Furness, 6th of 6th Month, 1861.
 
+[.salutation]
 My Dear Friend,
 
 I was glad to hear that you found a few while at the Yearly
@@ -2570,14 +2876,24 @@ Nothing so likely to attract this large class as an honest
 out-spoken declaration of the Truth and against error,
 without respect to the persons of men.
 
+[.signed-section-closing]
 Your affectionate friend,
 
+[.signed-section-signature]
 Thomas Drewry.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To William Hodgson.
 
+[.signed-section-context-open]
 Cockermouth, 23rd of 6th Month, 1861.
 
+[.salutation]
 My Dear Friend,
 
 Your acceptable letter was received,
@@ -2710,12 +3026,21 @@ and we shall know his testimony to go forth among
 us for our peace and encouragement in well-doing,
 so that a little one may yet chase a thousand and two put ten thousand to flight.
 
+[.signed-section-signature]
 J+++.+++ G. Sargent.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To I. B.
 
+[.signed-section-context-open]
 Cockermouth, 26th of 7th Month, 1861.
 
+[.salutation]
 Dear Friend,
 
 Being kindly invited the other day to come to our friends +++_______+++ in the evening,
@@ -2789,6 +3114,7 @@ and so neither they nor the people whom they lead,
 do walk in the light as Christ is in the light.
 With love and earnest desires, I am your friend,
 
+[.signed-section-signature]
 John G. Sargent.
 
 1861+++.+++ 8th Month 25th.--Have felt strengthened and
@@ -2818,10 +3144,18 @@ one or two passengers on subjects relating to the best life.
 It seems wonderful to me how way has hitherto been made for converse on religious subjects,
 or the one great concern of life, in travelling along as well as in commercial offices.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To Thomas Drewry.
 
+[.signed-section-context-open]
 Cockermouth, 19th of 9th Month, 1861.
 
+[.salutation]
 My Dear Friend,
 
 Our Quarterly Meeting is now near.
@@ -2843,6 +3177,10 @@ each one of us, to that which, as a service (however mean it may appear,
 or loathsome to our natural touch and taste) is given to us as
 a dispensation of the blessed gospel of Christ the Saviour.
 
+[.signed-section-closing]
 I remain, your affectionate friend,
 
+[.signed-section-signature]
 John G. Sargent.
+
+--

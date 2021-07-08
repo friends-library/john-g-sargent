@@ -1,18 +1,26 @@
 == Chapter I.
 
-Birth--Parentage--Early Impressions--Apprenticeship--Commences Business
-in Paris--Much Perplexity with his Partner--His Attendance of Meetings--Dissolution
-of Partnership and Relinquishing Business in Paris.
+[.chapter-synopsis]
+* Birth
+* Parentage
+* Early Impressions
+* Apprenticeship
+* Commences Business in Paris
+* Much Perplexity with his Partner
+* His Attendance of Meetings
+* Dissolution of Partnership and Relinquishing Business in Paris.
 
+[.offset]
 +++[+++John Grant Sargent, the son of Isaac and Hester Sargent, was born at Paddington,
 near London, in the year 1813.
 When about nine years old, on the removal of his parents to Paris,
 he was placed with his brother at school in England.
 In the seventeenth year of his age he was apprenticed to John 500. Bassett, draper,
 of Leighton Buzzard.
-At the expiration of his term there he went to his father`'s home in Paris.]
+At the expiration of his term there he went to his father`'s home in Paris.
 
-Respecting this period of his life, he has left the following memoranda:--
+[.offset]
+Respecting this period of his life, he has left the following memoranda:]
 
 1826.--Towards the latter part of this year I was taken
 poorly while at John Everett`'s school at Islington,
@@ -47,7 +55,7 @@ though I was not sufficiently acquainted with them at the time.
 I used to like walking alone in the fields,
 and was favoured to gather some strength from the
 perusal of a little book given me by Anne Bassett,
-called Guide to True Peace,
+called [.book-title]#Guide to True Peace,#
 which I believe tended in some measure to acquaint me with the intent of silent meetings.
 Towards the expiration of my time I became tired of the business,
 wishing after something less confining,
@@ -109,18 +117,19 @@ in addition to my wood-bending, there not being much doing in the latter.
 1836.--In this year I entered into partnership with Auguste Charlot,
 whom my father had known something of previously.
 
+[.offset]
 +++[+++About this time commenced a daily record of his life and conduct,
 from which the following are selected with a view to show forth
 his watchful care that the unflattering Witness in the soul,
 might make manifest all that was displeasing to Him
 whom he desired to serve with the whole heart:]
 
-1838.--2nd month, 1st.--This day I attended a meeting held at No. 24, faubourg du Roule,
+1838.--2nd month, 1st.--This day I attended a meeting held at No. 24, _faubourg du Roule,_
 were I met Elizabeth Fry, with her husband,
 also Josiah Forster and Lydia Irving (E. Fry`'s companion).
 It was a very solemn meeting.
 
-5th.--A large meeting at eight in the evening, at Mr. Taylor`'s at No. 6, rue Monthator;
+5th.--A large meeting at eight in the evening, at Mr. Taylor`'s at No. 6, _rue Monthator;_
 many present.
 E+++.+++ Fry held a discourse with the Wesleyan minister,
 concerning the good that is to be done and the influence of the English in Paris;
@@ -128,14 +137,17 @@ also Josiah Forster gave his ideas on the same subject.
 He read a chapter, and E. Fry spoke afterwards and appeared in prayer.
 
 11th.--Went to meeting; about 20 present.
-Father saw the Commissaire de Police, about a permission to hold our meeting.
+Father saw the _Commissaire de Police,_ about a permission to hold our meeting.
 
+[.offset]
 +++[+++The following is a copy of the letter addressed by the Prefect
 to the Superintendent of the Police granting this request:
 
-Extract from a letter addressed the 3rd of April, 1838, by the Prefect of the Police,
-to the Superintendent of the Police of the City of
-Paris and in particular of the district du Bottle.
+[.embedded-content-document.letter]
+--
+
+[.blurb]
+=== Extract from a letter addressed the 3rd of April, 1838, by the Prefect of the Police, to the Superintendent of the Police of the City of Paris and in particular of the district du Bottle.
 
 The Minister of the Interior has directed the Prefect of the Police
 to authorize the holding of meetings of the Society of Friends
@@ -143,17 +155,29 @@ twice in the week in an apartment at No. 24 faubourg du Roule,
 subject to the following conditions, enjoined upon Mr. Isaac Sargent,
 member of the said Society.
 
-1st. Not to place any sign outside, or notice,
+[.numbered-group]
+====
+
+[.numbered]
+_1st._ Not to place any sign outside, or notice,
 indicating the performance of the worship carried on by him.
 
-2nd. That the said meetings shall only take place on Sunday and Thursday in each week.
+[.numbered]
+_2nd._ That the said meetings shall only take place on Sunday and Thursday in each week.
 
-3rd. Lastly,
+[.numbered]
+_3rd._ Lastly,
 that they shall always end and the chapel be closed at nine o`'clock in the evening.
 
+====
+
+[.signed-section-closing]
 Delivered as a true extract to Mr. Isaac Sargent,
 
+[.signed-section-context-close]
 Paris, this 18th of May, 1838.
+
+--
 
 3rd Month, 11th.--First day.
 Had a pleasant meeting.
@@ -187,8 +211,8 @@ Christmas day.
 I finished reading the eleventh part of Piety Promoted, having, with few intermissions,
 read a portion therefrom every day since I took it in hand.
 I think I may say it has afforded me instruction and encouragement in the path of duty.
-I also finished reading a little tract containing Tender Counsel
-and Advice to all those who are sensible of their day of visitation,
+I also finished reading a little tract containing "`Tender Counsel
+and Advice to all those who are sensible of their day of visitation,`"
 by William Penn; from which I have, I trust, gained strength and edification.
 I feel how necessary it is to follow the leadings of our Heavenly Master,
 and desire that He may be mercifully pleased to help me
@@ -293,7 +317,7 @@ is my desire.
 I feel there is need for continual watchfulness,
 and not giving admission to the temptations to turn aside, which so often assail me.
 
-4th.--Had a favoured meeting at faubourg du Roule, and many present,
+4th.--Had a favoured meeting at _faubourg du Roule,_ and many present,
 the two small rooms being partly occupied, in addition to the large one.
 Elizabeth Fry held out to us much encouragement to be faithful,
 acting up to our convictions of duty;
@@ -320,7 +344,7 @@ and then I shall have more enlargement of understanding in spiritual things.
 5th Month, 12th.--First day.
 Went to meeting.
 Towards the evening we heard that there was a revolution in Paris.
-It appears there was fighting in the rue Bourg l`'Abbe and some lives lost.
+It appears there was fighting in the _rue Bourg l`'Abbe_ and some lives lost.
 The cannon were brought out, and we were rather uneasy as to the consequences.
 
 13th.--The National Guard were called, and seeing much anxiety manifested by the public,
@@ -538,7 +562,7 @@ with reading some interesting and instructive work.
 
 10th month, 3rd.--I received an assignation to appear on the 7th of this month,
 at the Commercial Tribunal to affirm to an account
-against +++_______+++ Coach-builder in the Champs Elysees,
+against +++_______+++ Coach-builder in the _Champs Elysees,_
 lately failed.
 
 4th.--The assignation received yesterday has much occupied my mind as my religious
@@ -552,7 +576,7 @@ I feel that I cannot authorize another to do what I would not do myself.
 
 5th.--I attended to a summons for this morning to
 // lint-disable invalid-characters é
-appear at the Agréé`'s of the Tribunal de Commerce,
+appear at the _Agréé`'s of the Tribunal de Commerce,_
 to receive 20+++%+++ upon a bill due last month,
 as arranged with on account of suspension of payment.
 I felt no reproach of conscience on retiring from the office of the Agree;
@@ -797,6 +821,8 @@ in my doing this or that, my eye is not single unto Him who requires such things
 
 Read from William Penn`'s advice to his children called Fruits of a Father`'s Love:
 
+[quote]
+____
 Fear God: show it in desire, refraining and doing.
 Keep the inward watch: keep a clear soul, and a light heart.
 Mind an inward sense upon doing anything.
@@ -831,6 +857,7 @@ and may be accounted a nest for sin to brood in.
 
 Be sure to draw your affairs into as narrow a compass as you can,
 and in method and proportion, time and other requisites proper for them.
+____
 
 Read this evening the 4th verse of the xvii.
 chapter of John, "`I have glorified You on the earth;
@@ -1230,6 +1257,9 @@ In it he informs me he was going to Portsmouth to join the good ship Mediator,
 on the 30th, for New York.
 In allusion to his leaving his family he says:
 
+[.embedded-content-document.letter]
+--
+
 It is no small trial and exercise of faith to have again
 to leave the yet surviving remnant of my beloved family,
 and nothing could induce me to do this,
@@ -1246,6 +1276,8 @@ and follows after Me,
 is not worthy of Me;`" and unless our obedience keeps
 pace with the knowledge bestowed upon us,
 we had better never have known.
+
+--
 
 4th Month 1st.--Comprehended with more clearness some parts of Scripture.
 I believe my Heavenly Father is pleased to enlighten, in a degree,
@@ -1947,8 +1979,13 @@ and enlist me as a servant in his vineyard, to give me the wages which He may pl
 so that I may from time to time know the tokens of
 his heavenly love to the renewing of my strength!
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To Lydia Chalk.
 
+[.signed-section-context-open]
 Paris, 2nd of 5th month, 1840.
 
 How pleasant it is to me to know I have friends who are interested about me:
@@ -1994,7 +2031,10 @@ in upholding our principles has much to contend with in the cross to the natural
 but (it ought to be with thankfulness) I can say,
 hitherto I have been marvellously sustained in every trial, to my great encouragement.
 
+[.signed-section-signature]
 J+++.+++ G. Sargent.
+
+--
 
 8th.--We were seven in number at meeting today.
 This being likely to be the last time we shall sit down
