@@ -2004,7 +2004,7 @@ John G. Sargent.
 
 --
 
-[.embedded-content-document.]
+[.embedded-content-document.letter]
 --
 
 [.letter-heading]
