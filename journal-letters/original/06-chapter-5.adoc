@@ -1,9 +1,20 @@
 == Chapter V.
 
-A Religious Visit to Friends in Different Parts of the United Kingdom--Memoranda
-of a Continental Business Journey--Letter From P. Mitchell--Letters to
-T+++.+++ Drewry--D. Pickard--W. Hodgson--J. D. Otis--P. Mitchell--One of his
-Sons--G. E.--J. P. Crisp--W. Waring--One of his Daughters--Priscilla Pitt.
+[.chapter-synopsis]
+* A Religious Visit to Friends in Different Parts of the United Kingdom
+* Memoranda of a Continental Business Journey
+* Letter From P. Mitchell
+* Letters to T+++.+++ Drewry
+* D. Pickard
+* W. Hodgson
+* J. D. Otis
+* P. Mitchell
+* One of his Sons
+* G. E.
+* J. P. Crisp
+* W. Waring
+* One of his Daughters
+* Priscilla Pitt
 
 1872+++.+++ 2nd Month 1st.--At our Monthly Meeting held today at Fritchley
 I laid before Friends a prospect which had long been before me,
@@ -278,6 +289,7 @@ days,`" and it is the experience of his servants now.
 We reckon we travelled in this journey about 750 miles and had 53 sittings,
 having been from home 13 days, including the day we left it.
 
+[.offset]
 +++[+++After remaining at home one week the diary proceeds:]
 
 2nd Month, 26th.--To William Bingham`'s, Chesterfield.
@@ -685,10 +697,16 @@ This giving up afforded relief to my mind and in
 the feeling of help vouchsafed I felt tendered.
 I trust the opportunity may be remembered by us to profit.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To Thomas Drewry.
 
+[.signed-section-context-open]
 Fritchley, 20th of 7th Month, 1872.
 
+[.salutation]
 My Dear Friend,
 
 It is brought to my remembrance that "`the fire will
@@ -710,17 +728,26 @@ I sometimes query whether we are sufficiently alive to the query (not
 just amongst ourselves but in a more extended sense) "`when differences
 arise is due care taken to endeavour speedily to end them.`"
 It is a hard matter sometimes, but perhaps we are not prayerful enough.
-
 Farewell.
 
+[.signed-section-closing]
 Thy sincere friend,
 
+[.signed-section-signature]
 John G. Sargent.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To Daniel Pickard.
 
+[.signed-section-context-open]
 Fritchley, 27th of 10th Month, 1872.
 
+[.salutation]
 Dear Daniel,
 
 I felt a response to thy communication of the 24th, relative to the help afforded us,
@@ -739,14 +766,24 @@ With regard to thy remark offered to myself in particular
 I desire to stand open to the sincerity of all my friends,
 and remain in a feeling of true love,
 
+[.signed-section-signature]
 Thy sincere friend,
 
+[.signed-section-signature]
 John G. Sargent.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To Thomas Drewry.
 
+[.signed-section-context-open]
 Fritchley, 19th of 11th Month, 1872.
 
+[.salutation]
 My Dear Friend,
 
 I received the document +++[+++disownment of J. G. S. by the (so called) Friends]
@@ -767,14 +804,24 @@ may tend to the confirming of our testimony on behalf of the Truth,
 and to the honour of the Great Name,
 which I can truly say it is my desire on all occasions to advocate.
 
+[.signed-section-closing]
 With love I am thy friend sincerely,
 
+[.signed-section-signature]
 John G. Sargent.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To W. Hodgson.
 
+[.signed-section-context-open]
 Fritchley, 5th of 1st Month, 1873.
 
+[.salutation]
 My Dear Friend,
 
 Since I last wrote there have been occurrences which I may now allude to.
@@ -803,10 +850,18 @@ He has since informed me that my letter was read in the Monthly Meeting,
 and that he had handed it to each of the Quarterly
 Meeting`'s Committee who were on the appointment.
 
+[.signed-section-signature]
 J+++.+++ G. Sargent.
 
-To James 500. Otis.
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
+To James D. Otis.
+
+[.signed-section-context-open]
 Fritchley, 16th of 3rd Month, 1873.
 
 It feels right to work in the daytime, whilst it is day with us,
@@ -823,14 +878,24 @@ How many are the lawful earthly things which sometimes rise up in a heap before 
 and cast down under their weight to our hindrance,
 unless we look unto Him who helpeth through, and so press through them all.
 
+[.signed-section-closing]
 I am thy friend and brother,
 
+[.signed-section-signature]
 John G. Sargent.
 
-To James 500. Otis.
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
+To James D. Otis.
+
+[.signed-section-context-open]
 Fritchley, 2nd of 5th Month, 1873.
 
+[.salutation]
 My Dear Friend,
 
 Thy acceptable letter was received when some of our dear
@@ -853,14 +918,24 @@ and as it is written (I think) he that is forgiven much loveth much,
 so he that is helped through straits and difficulties (and especially in an endeavour
 for the cause of Truth) has cause to love much Him that helpeth him.
 
+[.signed-section-closing]
 I am thy friend,
 
+[.signed-section-signature]
 John G. Sargent.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To William Hodgson.
 
+[.signed-section-context-open]
 Fritchley, 17th of 8th Month, 1873.
 
+[.salutation]
 My Dear Friend,
 
 Our little company hereabouts, are, I trust, holding on their way,
@@ -942,14 +1017,24 @@ It is through great tribulation we enter his kingdom, if we enter it;
 and some by one sort and others by another,
 and his ever blessed hand getteth Him the victory.
 
+[.signed-section-closing]
 Thy friend and brother,
 
+[.signed-section-signature]
 John G. Sargent.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To Peleg Mitchell.
 
+[.signed-section-context-open]
 Fritchley, 18th of 10th Month, 1873.
 
+[.salutation]
 My Dear Friend,
 
 Truly how pleasant it is for brethren to dwell together in unity,
@@ -1009,14 +1094,24 @@ this we can but lament,
 but if we are faithful our Lord and Master will carry
 us through to our own peace and consolation in Him.
 
+[.signed-section-closing]
 In much love to you both from thy friend,
 
+[.signed-section-signature]
 John G. Sargent.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To One of His Sons.
 
+[.signed-section-context-open]
 Fritchley, 24th of 12th Month, 1873.
 
+[.salutation]
 My Dear +++_______+++,
 
 Inclination and more than inclination induces me to take
@@ -1045,14 +1140,24 @@ I believe thou wilt feel true inward peace if thou dost,
 so let nothing hinder thy faithfulness to that in thee which makes for peace.
 Dear love from us.
 
+[.signed-section-closing]
 Thy affectionate father,
 
+[.signed-section-signature]
 John G. Sargent.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To G. E.
 
+[.signed-section-context-open]
 Fritchley, 1st of 7th Month, 1874.
 
+[.salutation]
 Dear Friend,
 
 I would have liked to reply sooner to thy letter lately received,
@@ -1104,12 +1209,21 @@ believing they (the many queries that present to thy mind)
 have a drawing off or outward in their effects upon thee.
 We are pleased nevertheless to hear from thee, and to know how it fares with thee.
 
+[.signed-section-closing]
 With love, I remain thy friend,
 
+[.signed-section-signature]
 John G. Sargent.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To One Of His Sons.
 
+[.salutation]
 My Dear+++_______+++,
 
 Since I left home my thoughts have at different times turned to thee,
@@ -1173,12 +1287,21 @@ In dear love and earnest solicitude for thy welfare as already expressed,
 
 I am thy affectionate and truly well-wishing father,
 
+[.signed-section-signature]
 J+++.+++ G. Sargent.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To Jane P. Crisp.
 
+[.signed-section-context-open]
 Fritchley, 17th of 5th Month, 1875.
 
+[.salutation]
 Dear Friend,
 
 Thou wilt perhaps remember me by name, as living near 30 years ago at Kimberley.
@@ -1208,16 +1331,27 @@ I shall be pleased to have a letter from thee, if thou wilt post me ever so few 
 that I may know thy proper address,
 and with unfeigned love in that which hath no change (I trust I can say),
 
+[.signed-section-closing]
 I subscribe myself,
 
+[.signed-section-closing]
 Thy friend sincerely,
 
+[.signed-section-signature]
 John G. Sargent.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To Jane P. Crisp.
 
+[.signed-section-context-open]
 Fritchley, 5th of 6th Month, 1875.
 
+[.salutation]
 Dear Friend,
 
 Thy letter to hand this morning is cause of comfort to me and my dear wife.
@@ -1291,14 +1425,24 @@ returned home with the rich reward of peace.
 Let us be encouraged to faithfulness.
 "`Be thou faithful unto death and I will give thee a crown of life.`"
 
+[.signed-section-closing]
 I am thy sincere and sympathising friend,
 
+[.signed-section-signature]
 John G. Sargent.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 From Peleg Mitchell.
 
+[.signed-section-context-open]
 Nantucket, 21st of 7th Month, 1875.
 
+[.salutation]
 Dear Friend,
 
 In my last if I remember right, I alluded to the subject of birthright membership.
@@ -1327,12 +1471,21 @@ how obvious are the sad effects of it in latter time.
 
 I conclude, I hope, in that which changes not,
 
+[.signed-section-signature]
 Peleg Mitchell.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To J. P. Crisp.
 
+[.signed-section-context-open]
 Fritchley, 26th of 7th Month, 1875.
 
+[.salutation]
 Dear Friend,
 
 Thy letter much interested us,
@@ -1392,14 +1545,24 @@ that we may bring no reproach thereon! and what is
 more cementing than a love for the Truth?
 truly Truth is known and felt in all and by all who love Him and obey his dictates.
 
+[.signed-section-closing]
 Sincerely thy friend,
 
+[.signed-section-signature]
 John G. Sargent.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To Peleg Mitchell.
 
+[.signed-section-context-open]
 Fritchley, 15th of 8th Month, 1875.
 
+[.salutation]
 My Dear Friend,
 
 Thy letter of 21st ult.
@@ -1449,14 +1612,24 @@ Numbers we must not look to, but His power in a few,
 may be what we may have to stand by whilst thou and
 some of us have our time allotted here.
 
+[.signed-section-closing]
 With much love I conclude,
 
+[.signed-section-closing]
 Thy affectionate friend,
 
+[.signed-section-signature]
 John G. Sargent.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To Thomas Drewry.
 
+[.signed-section-context-open]
 Fritchley, 19th of 8th Month, 1875.
 
 My love please to thy uncle +++[+++Samuel Evens, then of Leeds.]
@@ -1481,16 +1654,27 @@ I believe thy uncle has useful talents committed to him, but they must also be g
 as any that we possess have to be, that they may be sanctified to the good Master,
 for his use not our own.
 
+[.signed-section-closing]
 Much love to you all,
 
+[.signed-section-closing]
 Thy affectionate friend,
 
+[.signed-section-signature]
 John G. Sargent.
 
-To James 500. Otis.
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
+To James D. Otis.
+
+[.signed-section-context-open]
 Fritchley, 7th of 2nd Month, 1876.
 
+[.salutation]
 My Dear Friend,
 
 Thy letter was very acceptable, and on re-perusing it,
@@ -1528,14 +1712,24 @@ and as we journey onward, keeping with Him and with one another, by the way,
 we also shall know what it meaneth, the burning of our hearts within us,
 as did those of the disciples of old.
 
+[.signed-section-closing]
 I remain thy friend as ever,
 
+[.signed-section-signature]
 John G. Sargent.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To J. P. Crisp.
 
+[.signed-section-context-open]
 Fritchley, 19th of 2nd Month, 1876.
 
+[.salutation]
 Dear Friend,
 
 I do feel a love kindled in my heart towards the
@@ -1580,14 +1774,24 @@ To keep the eye single, we are assured by Him who now speaks from Heaven,
 is the way to have the body full of light--no part dark;--this being our favoured experience,
 or when it is so, we need not fear that we shall stumble.
 
+[.signed-section-closing]
 Thy friend,
 
+[.signed-section-signature]
 John G. Sargent.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To William Waring.
 
+[.signed-section-context-open]
 Fritchley, 21st of 5th Month, 1876.
 
+[.salutation]
 Dear Friend,
 
 With a little salutation of love from a poor friend, yet I trust a brother in the Truth,
@@ -1613,14 +1817,24 @@ What then, is there for poor finite man to do, but to trust in the Lord,
 watching unto prayer and waiting patiently for Him,
 and his appearance to us in the way that He shall choose?
 
+[.signed-section-closing]
 I remain thy friend,
 
+[.signed-section-signature]
 John G. Sargent.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To William Hodgson.
 
+[.signed-section-context-open]
 Fritchley, 9th of 7th Month, 1876.
 
+[.salutation]
 My Dear Friend,
 
 I have not felt more any removal by the stroke of
@@ -1652,14 +1866,24 @@ who doeth at all times well.
 It is indeed a favour to know at any time that He careth for us,
 and taketh our cares into his own hand by giving ability to cast all upon Him.
 
+[.signed-section-closing]
 Thy friend and brother,
 
+[.signed-section-signature]
 John G. Sargent.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To William Hodgson.
 
+[.signed-section-context-open]
 Fritchley, 3rd of 9th Month, 1876.
 
+[.salutation]
 My Dear Friend,
 
 I feel that something is due to thee,
@@ -1716,15 +1940,25 @@ It is remarkable how way has opened for them so far in Ireland in the hearts of 
 and we may trust this will continue to be as faithfulness
 is abode in and the Lord alone is exalted where they go.
 
+[.signed-section-closing]
 Thy friend and brother,
 
+[.signed-section-signature]
 John.
 G+++.+++ Sargent.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To William Hodgson.
 
+[.signed-section-context-open]
 Charlbury, 9th of 6th Month, 1877.
 
+[.salutation]
 My Dear Friend,
 
 What a sorrowful state the "`larger body,`" as a body is in.
@@ -1763,14 +1997,24 @@ wherein they know Him and his holy will concerning them.
 So then we may and do rejoice at times under his banner which we feel to be that of love,
 his love who begat us by the visitations of his love and mercy to us.
 
+[.signed-section-closing]
 Thy affectionate friend,
 
+[.signed-section-signature]
 John G. Sargent.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To +++_______+++ +++_______+++.
 
+[.signed-section-context-open]
 Belfast, 1st of 7th Month, 1877.
 
+[.salutation]
 Dear Friend,
 
 Since we met in the train last Fourth-day my mind
@@ -1798,14 +2042,24 @@ On the contrary, they lay waste and hurt a meeting when the Life has arisen ther
 
 What I have written is sent in love.
 
+[.signed-section-closing]
 I am thy friend,
 
+[.signed-section-signature]
 John G. Sargent.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To One of His Daughters.
 
+[.signed-section-context-open]
 Fritchley, 29th of 7th Month, 1877.
 
+[.salutation]
 My Beloved Daughter,
 
 I hope thou wilt not think any that do not write to thee do not think of thee,
@@ -1829,14 +2083,24 @@ as for the one to deny (by their lives) that to be a testimony for the Truth,
 which the other feels His Law in them requires them to conform to?
 I believe not!
 
+[.signed-section-closing]
 Thy affectionate father,
 
+[.signed-section-signature]
 John G. Sargent.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To William Hodgson.
 
+[.signed-section-context-open]
 Fritchley, 6th of 11th Month, 1877.
 
+[.salutation]
 My Dear Friend,
 
 Thou queriest about Ireland.
@@ -1865,12 +2129,21 @@ Now my dear friend and elder brother, farewell in the Truth and in the Life,
 which I believe is very dear to thee.
 And may thine inherit also the blessings of heavenly goodness and mercy and Truth.
 
+[.signed-section-signature]
 J+++.+++ G. S.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To Priscilla Pitt.
 
+[.signed-section-context-open]
 Fritchley, 4th of 12th Month, 1877.
 
+[.salutation]
 My Dear Friend,
 
 Although I have not written to thee since the departure
@@ -1910,6 +2183,10 @@ But of this we may be assured that if we are fervent in spirit serving the Lord,
 we shall reap the reward, through Him who died for us,
 and ever liveth and maketh intercession for us.
 
+[.signed-section-closing]
 Thy and your sincerely affectionate friend,
 
+[.signed-section-signature]
 John G. Sargent.
+
+--
