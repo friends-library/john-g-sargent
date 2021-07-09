@@ -1,13 +1,25 @@
 == Chapter VII.
 
-Visits to Ayton, Penketh, Rawden, Sibford, Wigton,
-Sidcot and Saffron Walden Schools--Letters to J. Briggs
-and J. P. Crisp--Visits to the Meetings of Chesterfield,
-Heanor, Monyash, Bakewell, Matlock,
-Mansfield and Nottingham--Letter to J. Briggs--Continuation of Diary--Letters to M.
-Hall--J. P. Crisp--R. Hall--To one of his Sons--Death of L. E. Gilkes--Death of M. Rickman--Second
-Visit to America--Letters to W. C. M`'Cheane--To one of his Sons--J. P. Crisp--Mary
-M+++.+++ Otis--J. Briggs--M. and A. Walmsley--H. S. Cope--Last Illness and Decease.
+[.chapter-synopsis]
+* Visits to Ayton, Penketh, Rawden, Sibford, Wigton, Sidcot and Saffron Walden Schools
+* Letters to J. Briggs and J. P. Crisp
+* Visits to the Meetings of Chesterfield, Heanor, Monyash, Bakewell, Matlock, Mansfield and Nottingham
+* Letter to J. Briggs
+* Continuation of Diary
+* Letters to M. Hall
+* J. P. Crisp
+* R. Hall
+* To one of his Sons
+* Death of L. E. Gilkes
+* Death of M. Rickman
+* Second Visit to America
+* Letters to W. C. M`'Cheane
+* To one of his Sons
+* J. P. Crisp
+* Mary M+++.+++ Otis
+* J. Briggs--M. and A. Walmsley
+* H. S. Cope
+* Last Illness and Decease
 
 1880+++.+++ 11th Month 10th.--This day I laid before our Monthly Meeting
 a concern that had rested on my mind to attend Ayton Meeting,
@@ -199,10 +211,16 @@ Surely He answers prayer, and is with the sons of men, I can say, condescending 
 for He does wonderfully for you.
 He makes a way through the darkness.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To James Briggs.
 
+[.signed-section-context-open]
 Fritchley, 28th of 5th Month, 1881.
 
+[.salutation]
 My Dear Friend,
 
 It did my heart good, I think I may say, to read your letter lately received,
@@ -240,14 +258,24 @@ under a precious feeling which has prompted,
 and I believe I can truly say, led the way.
 With much love and in a feeling of good unity with you,
 
+[.signed-section-closing]
 I remain your friend,
 
+[.signed-section-signature]
 John G. Sargent.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To Jane P. Crisp.
 
+[.signed-section-context-open]
 Fritchley, 4th of 6th Month, 1881.
 
+[.salutation]
 My Dear Friend,
 
 In a little drawing, I believe, of that love which springs from the Fountain of love,
@@ -284,9 +312,13 @@ rather than as a matter of course thing show yourself among those who differ fro
 but you know in whom you have believed, and may your mountain stand strong.
 With our united dear love, in that which draws the living closer and closer together,
 
+[.signed-section-closing]
 I remain your affectionate friend,
 
+[.signed-section-signature]
 J+++.+++ G. S.
+
+--
 
 In pursuance of the draft of love I felt constraining me,
 I laid before our Monthly Meeting, held at Belper, on the 8th of Sixth Month,
@@ -363,10 +395,16 @@ in that "`On Thoughts and Imaginations.`"
 for my heavenly Father`'s care over me as one of his poor little ones,
 needing his watchful care: with Him surely we are rich, every one of us.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To James Briggs.
 
+[.signed-section-context-open]
 Fritchley, 12th of 8th Month, 1881.
 
+[.salutation]
 My Dear Friend,
 
 Your letter brought us into fresh sympathy with you; but tribulation, we are to believe,
@@ -399,9 +437,13 @@ I have been from home lately, but was back before our Monthly Meeting.
 We may acknowledge to help received, the favour among many favours continued,
 of being owned together by Him, whom to know, and in whom to believe, is Life eternal.
 
+[.signed-section-closing]
 I remain your friend affectionately,
 
+[.signed-section-signature]
 John G. Sargent.
+
+--
 
 23rd.--In the evening, during our sitting together,
 I felt constrained to break the silence by giving utterance to the words,
@@ -478,10 +520,16 @@ and if according to the Divine will,
 that I might be instrumental to the help of some in handing forth what He,
 the Head of the Church, might see fitting for this end.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To Mary Hall.
 
+[.signed-section-context-open]
 Fritchley, 19th of 10th Month, 1881.
 
+[.salutation]
 My Dear Friend,
 
 The information received this morning of the departure
@@ -508,14 +556,24 @@ I trust there will be that nearness in spirit which distance cannot separate.
 
 With dear love to you and yours, I am
 
+[.signed-section-closing]
 Your affectionate friend,
 
+[.signed-section-signature]
 J+++.+++ G. Sargent.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To J. P. C.
 
+[.signed-section-context-open]
 Fritchley, 29th of 10th Month, 1881.
 
+[.salutation]
 My Dear Friend,
 
 We have had a letter from +++_______+++,
@@ -536,9 +594,13 @@ and many times before they have learned true Wisdom, these,
 (and older ones too) have to be deeply humbled,
 as a necessary part of their education in our blessed Master`'s school.
 
+[.signed-section-closing]
 I remain affectionately, your friend,
 
+[.signed-section-signature]
 J+++.+++ G. Sargent.
+
+--
 
 11th Month 15th.--I left home +++[+++on business]
 for France and Belgium, and perhaps Germany,
@@ -578,10 +640,16 @@ to leave the fleshly tabernacle behind,
 to glorify Him in that body which it shall please Him to give me, yes,
 to sing everlasting praises to his Name, who has done so much for me.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To Rachel Hall.
 
+[.signed-section-context-open]
 Fritchley, 21st of 12th Month, 1881.
 
+[.salutation]
 My Dear Friend,
 
 A few lines perhaps should have been penned sooner,
@@ -621,12 +689,21 @@ will prove that the taking away of an earthly parent will
 increase your confiding trust in our Heavenly One.
 With dear love, I now conclude, and remain a sincere friend to you and yours,
 
+[.signed-section-signature]
 John G. Sargent.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To One of His Sons.
 
+[.signed-section-context-open]
 Fritchley, 22nd of 12th Month, 1881.
 
+[.salutation]
 My Dear +++_______+++,
 
 I often feel languid; perhaps later you may have an improved account; while nevertheless,
@@ -686,9 +763,13 @@ which is contrariwise, against the glory of Him who has a right to demand of us 
 that it should not be spent in vanity;
 this life is vain unless we choose God for our portion here below.
 
+[.signed-section-closing]
 With dear love, your affectionate father,
 
+[.signed-section-signature]
 J+++.+++ G. Sargent.
+
+--
 
 22nd.--Feeling low in body as to the strength of the natural man,
 but the Lord`'s mercies and the over-shadowing wing of divine love is extended over me,
@@ -791,10 +872,16 @@ he was unknown to me.
 Had a few words to drop among us, "`He that loves father or mother more than Me,
 is not worthy of Me: he that loves son or daughter more than Me, is not worthy of Me.`"
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To James Briggs.
 
+[.signed-section-context-open]
 Fritchley, 31st of 3rd Month, 1882.
 
+[.salutation]
 My Dear Friend,
 
 Our love one for another must not always be measured by frequency of correspondence,
@@ -815,9 +902,13 @@ Let us then be faithful stewards of the gifts He has bestowed upon us,
 and mind our heavenly calling, for it is a heavenly, or holy one,
 even to do His will at all times, which is living to his praise.
 
+[.signed-section-closing]
 With our united dear love, I am your friend,
 
+[.signed-section-signature]
 John G. Sargent.
+
+--
 
 4th Month 1st.--In the night, on waking, I was favoured with the words upon my mind,
 I will fill your mouth with good things:
@@ -862,9 +953,14 @@ and we trust our Heavenly Father is not only leading us forth,
 but that He will graciously own us all through this
 journey--desiring to do his will in all things.
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 On board the Alaska, Nearing Queenstown, 14th of 5th Month, 1882.
 
-Beloved Friends, W. And C. McCheane
+[.salutation]
+Beloved Friends, W. And C. McCheane,
 
 Having a little time,
 I thought of you with the inclination to send you a few lines letting
@@ -883,11 +979,16 @@ may we keep close to the Master who does cause to lie down in green pastures,
 and leads beside still waters, which enables to testify,
 that the Lord is good and does not forsake His children.
 
+[.signed-section-closing]
 Farewell, with our united dear love,
 
+[.signed-section-closing]
 Your affectionate friend,
 
+[.signed-section-signature]
 John G. Sargent.
+
+--
 
 14th.--After a quiet night, we arrived off Queenstown.
 
@@ -1526,10 +1627,16 @@ But his deep and lively interest in the cause of Truth and righteousness,
 and love for his friends, was unabated,
 as the following letters which have since been collected, will evince.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To One of His Sons.
 
+[.signed-section-context-open]
 Fritchley, 10th of 12th Month, 1882.
 
+[.salutation]
 My Dear Son,
 
 My thoughts have been with you at different times since the morning you left us;
@@ -1568,12 +1675,21 @@ or know you to be walking in the Truth!
 Thus much, my dear +++_______+++, are the overflowings of my heart for and to you,
 who am your very affectionate father,
 
+[.signed-section-signature]
 John G. Sargent.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To One of His Sons.
 
+[.signed-section-context-open]
 Fritchley, 18th of 12th Month, 1882.
 
+[.salutation]
 My Dear +++_______+++,
 
 With the parcel going to you and as much love as it is possible to send you,
@@ -1619,12 +1735,21 @@ and you will do well.
 
 My endeared love goes with this, and I remain as ever, your affectionate father,
 
+[.signed-section-signature]
 John G. Sargent.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To J. P. Crisp.
 
+[.signed-section-context-open]
 Fritchley, 15th of 1st Month, 1883.
 
+[.salutation]
 My Dear Friend,
 
 It feels pleasant to take the pen,
@@ -1648,12 +1773,21 @@ his face from us for a little while.
 O! how good it is to trust so good and gracious a Lord and Master!
 How does He strengthen his little ones!
 
+[.signed-section-signature]
 J+++.+++ G. Sargent.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To One of His Sons.
 
+[.signed-section-context-open]
 Fritchley, 31st of 1st Month, 1883.
 
+[.salutation]
 My Dear +++_______+++,
 
 Your letter was very acceptable to us both.
@@ -1667,14 +1801,24 @@ and is ever ready to help us and shield us from the fiery darts of the cruel one
 Let us then put on, with divine assistance,
 strength in his holy Name and watch unto prayer, and we shall do well.
 
+[.signed-section-closing]
 I remain your very affectionate father,
 
+[.signed-section-signature]
 John G. Sargent.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To Mary M. Otis.
 
+[.signed-section-context-open]
 6th of 6th Month, 1883.
 
+[.salutation]
 My Dear Friend,
 
 You have been affectionately in my remembrance from time to time,
@@ -1714,12 +1858,21 @@ she is a kind sister to her we may believe;
 but may we not believe, and I think you can testify thereto,
 that there is One who is a husband to the widow?
 
+[.signed-section-signature]
 J+++.+++ G. Sargent.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To Morton And Abby Walmsley.
 
+[.signed-section-context-open]
 8th of 6th Month, 1883.
 
+[.salutation]
 My Dear Friends,
 
 We are much concerned to hear of dear M. S. Kirkbride`'s illness
@@ -1762,14 +1915,24 @@ that which makes for peace And now with much love to you both I close my little 
 hoping to hear again soon, and in desire that we may, as regards our dear sick friend,
 be enabled truly to say "`Your will be done.`"
 
+[.signed-section-closing]
 Your affectionate friend,
 
+[.signed-section-signature]
 John G. Sargent.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To James Briggs.
 
+[.signed-section-context-open]
 Fritchley, 9th of 6th Month, 1883.
 
+[.salutation]
 My Dear Friend,
 
 Your letter came to hand yesterday and was acceptable to my mind,
@@ -1805,9 +1968,13 @@ and not withhold when you have a drawing in your mind.
 Those who walk in the Spirit can understand one another,
 and human wisdom is laid low,--below everything that flows from the Spirit.
 
+[.signed-section-closing]
 Your friend affectionately,
 
+[.signed-section-signature]
 John G. Sargent.
+
+--
 
 [.asterism]
 '''
@@ -1843,10 +2010,16 @@ capability for any exertion--yet his mind being clothed with heavenly love,
 he was animated to address this final parting salutation, as it proved to be,
 to his dear friends in America, never again taking pen in hand.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To Hannah S. Cope.
 
+[.signed-section-context-open]
 Fritchley, 31st of 10th Month, 1883.
 
+[.salutation]
 My Dear Friend,
 
 As my dear wife is writing to you,
@@ -1880,9 +2053,13 @@ Now, dear friends, farewell to each one of you as if named,
 and my love is also to those I do not name,
 with whom we mingled in the love of the Gospel of Life, Truth and Love.
 
+[.signed-section-closing]
 Your and your affectionate friend,
 
+[.signed-section-signature]
 John G. Sargent.
+
+--
 
 The last time he came downstairs was on the day of the Monthly Meeting held at Fritchley,
 the 14th of Eleventh Month.
