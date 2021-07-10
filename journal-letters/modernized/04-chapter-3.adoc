@@ -1031,13 +1031,13 @@ showing the sad declension, by way of the changes that have taken place,^
 footnote:[This work was drawn up by Daniel Pickard, of Leeds,
 and afterwards revised and adopted by the Friends attending the Conference Meetings.
 It was published in London in 1864.
-Its full title is, An expostulation on behalf of Truth,
-against the Departures in Doctrine, Practice and Discipline,
-in which the revised Queries,
+Its full title is, [.book-title]#An Expostulation on Behalf of Truth,
+Against the Departures in Doctrine, Practice and Discipline,
+in Which the Revised Queries,
 Rules and Advices of London Yearly Meeting of Friends
-are examined and Compared with former Editions.
+Are Examined and Compared with Former Editions.#
 Although this was a public indictment of London Yearly Meeting, showing from its acts,
-by a large number of Extracts from the Queries, Rules and Advices,
+by a large number of [.book-title]#Extracts from the Queries, Rules and Advices,#
 its lapse from first principles, and was temperate in tone, being, as its name implies,
 an expostulation, yet, it was never answered!]
 the Yearly Meeting countenancing them by the alterations
@@ -1433,7 +1433,7 @@ as they may be enabled,
 to solicit the attention of that meeting to the very serious
 changes recently made in the doctrine and discipline of
 our religious Society as the same are set forth in a book,
-entitled, An Expostulation on behalf of the Truth.`"
+entitled, [.book-title]#An Expostulation on Behalf of the Truth.#
 The Friends who attended (four in number) were detained
 about two hours before being received,
 and it was preconcerted in the meeting not to enter into a discussion;
