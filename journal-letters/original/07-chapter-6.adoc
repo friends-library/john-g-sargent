@@ -1,13 +1,28 @@
 == Chapter VI.
 
-Letters to J. P. Crisp--A. Evertsen--E. Bell and Family--One of his Sons--W. Waring--His
-Wife--E. Watkins--S. D. Otis--Visit to Ackworth Meeting--Continuation of Diary--Accompanies
-W+++.+++ C. and L. D. Meader on a Religious Visit to Norway and the Vaudois Valleys.
+[.chapter-synopsis]
+* Letters to J. P. Crisp
+* A. Evertsen
+* E. Bell and Family
+* One of his Sons
+* W. Waring
+* His Wife
+* E. Watkins
+* S. D. Otis
+* Visit to Ackworth Meeting
+* Continuation of Diary
+* Accompanies W+++.+++ C. and L. D. Meader on a Religious Visit to Norway and the Vaudois Valleys.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To J. P. Crisp.
 
+[.signed-section-context-open]
 Fritchley, 9th of 5th Month, 1878.
 
+[.salutation]
 My Dear Friend,
 
 I have thy two letters, and intended replying to the first without delay:
@@ -24,14 +39,24 @@ of the modern Friends (or such as have left Friends).
 We were favoured in our meetings held here last week.
 The Master condescends to be with us.
 
+[.signed-section-closing]
 Thy affectionate friend,
 
+[.signed-section-signature]
 John G. Sargent.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To Anders Evertsen.
 
+[.signed-section-context-open]
 Fritchley, 11th of 5th Month, 1878.
 
+[.salutation]
 My Dear Friend,
 
 It seems with me to send thee a few lines expressive of my sympathy with thee and thy
@@ -56,14 +81,24 @@ which is invincible.
 With a salutation of endeared love to you both,
 of whom we shall like to hear when way opens in your minds to write,
 
+[.signed-section-closing]
 I remain thy and your affectionate friend,
 
+[.signed-section-signature]
 John G. Sargent.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To Edward Bell And Family.
 
+[.signed-section-closing]
 Fritchley, 13th of 10th Month, 1878.
 
+[.salutation]
 My Dear Friends,
 
 Since being with you and breaking bread with you in more ways than one,
@@ -109,14 +144,24 @@ Let us go forward in faith and hope, and be very faithful;
 this is the way to grow and the sure way to obtain a crown at last.
 I have written in love, and feel that I can, and do greet you in the same, and remain,
 
+[.signed-section-closing]
 Your sincerely affectionate friend,
 
+[.signed-section-signature]
 John G. Sargent.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To J. P. Crisp.
 
+[.signed-section-context-open]
 4th of 1st Month, 1879.
 
+[.salutation]
 My Dear Friend,
 
 I do feel brought into sympathy with thee in thy seemingly lonely position,
@@ -146,9 +191,13 @@ any more than the place, where we shall offer upon his holy altar the sacrifices
 He is pleased to call for,
 from those who truly fear Him and are concerned to obey every dictate of his holy will.
 
+[.signed-section-closing]
 Thy friend,
 
+[.signed-section-signature]
 John G. Sargent.
+
+--
 
 1879+++.+++ 5th Month 2nd.--Jesse Darbyshire and Elizabeth Kelsall were married today,
 at an appointed meeting at Fritchley.
@@ -163,10 +212,16 @@ enabling to testify for Him in a sense of the greatness
 of his help and the strength afforded;
 bless the Lord O my soul, and forget not all his benefits.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To One of His Sons.
 
+[.signed-section-context-open]
 Gand, 11th of 5th Month, 1879.
 
+[.salutation]
 My Dear+++_______+++,
 
 How has my heart yearned over thee since we met and since we parted +++[+++in London.]
@@ -257,11 +312,16 @@ in the way whereof there is true everlasting peace, and joy in the Holy Ghost.
 
 With earnest desires for you both that you may be guided in the right way.
 
+[.signed-section-closing]
 I remain thy affectionate father,
 
+[.signed-section-closing]
 In dear love,
 
+[.signed-section-signature]
 John G. Sargent.
+
+--
 
 6th Month.--How precious it is to feel and know the merciful
 lovingkindness of our heavenly Father extended to us.
@@ -376,10 +436,16 @@ but we must cooperate with Him and strive to get into the quiet,
 ceasing from our own thoughts and imaginations by the help of the Divine power,
 which can do all things for us.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To William Waring.
 
+[.signed-section-context-open]
 Fritchley, 16th of 6th Month, 1879.
 
+[.salutation]
 Dear Friend,
 
 It is good I believe for us to bear one another in our remembrance,
@@ -441,12 +507,21 @@ and is from the same God and Father of us all,
 and by and through our Saviour Jesus Christ, do I salute thee as an elder brother,
 and remain with love,
 
+[.signed-section-closing]
 Thy friend,
 
+[.signed-section-signature]
 John G. Sargent.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To His Wife.
 
+[.signed-section-context-open]
 Dunkirk, 18th of 9th Month, 1879.
 
 I cannot say that I feel to stand on high ground in anything.
@@ -470,8 +545,15 @@ How vain and empty all things below seem to be! and yet grace beautifies
 and changes as it were the element we live in;
 but no doubt we are too careful or full of care: this I apprehend is my own case.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To His Wife.
 
+[.signed-section-context-open]
 Courtrai, 26th of 9th Month, 1879.
 
 With regard to +++_______+++`'s, offering, it will or may be seen undoubtedly,
@@ -490,10 +572,18 @@ by faith in that which he has some knowledge of,
 and that there is again and again something for him to learn,
 and often the same lesson to learn over again!
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To Anders And Sikke Evertsen.
 
+[.signed-section-context-open]
 Fritchley, 17th of 10th Month, 1879.
 
+[.salutation]
 My Dear Friends,
 
 You are, dear friends, borne in remembrance by us and we desire to be remembered by you.
@@ -553,14 +643,24 @@ You will I believe understand, at least, thereby, my love is towards you,
 in that which is deeper than words only,
 and I remain in sincere desire for your peace and welfare every way,
 
+[.signed-section-closing]
 Affectionately your friend,
 
+[.signed-section-signature]
 John G. Sargent.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To One of His Sons.
 
+[.signed-section-context-open]
 Fritchley, 21st of 10th Month, 1879.
 
+[.salutation]
 My Dear+++_______+++,
 
 I was interested in reading how thou art engaged,
@@ -587,14 +687,24 @@ Do think of this seriously.
 Wait upon God, the God of thy fathers, and He will be thy rich reward,
 giving thee that peace nothing in this world can give.
 
+[.signed-section-closing]
 With dear love, thy affectionate father,
 
+[.signed-section-signature]
 J+++.+++ G. Sargent.
 
-The following Letter was addressed to a little company of young men who were under discouragement.
+--
 
++++[+++The following Letter was addressed
+to a little company of young men who were under discouragement.]
+
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Fritchley, 1st of 1st Month, 1880.
 
+[.salutation]
 Dear Young Men,
 
 Who are accustomed to draw together to wait upon God,
@@ -630,12 +740,21 @@ In much nearness and true disinterested love for those who are convinced of the 
 
 I am your longing friend for your safe walking and true peace,
 
+[.signed-section-signature]
 John G. Sargent.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To E. W.
 
+[.signed-section-context-open]
 Lille, 29th of 1st Month, 1880.
 
+[.salutation]
 Dear Edward,
 
 So J. F. is no more!
@@ -657,14 +776,24 @@ and duly valuing the one thing needful; the one thing at a time; the measure dis
 but in this I expect, we often come short,
 and do not dwell enough on what we have in possession
 
+[.signed-section-closing]
 Will now conclude, with love, thy friend,
 
+[.signed-section-signature]
 J+++.+++ G. Sargent.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To Samuel D. Otis.
 
+[.signed-section-context-open]
 Fritchley, 4th of 3rd Month, 1880.
 
+[.salutation]
 My Dear Friend,
 
 It is pleasant to hear from our friends and to know how they and their`'s are situated,
@@ -718,9 +847,13 @@ He allots to each one of us in these earthen vessels,
 yea, that we may show forth his praise to the end of our days, that others, through us,
 may extol Him in the heavens of his glory.
 
+[.signed-section-closing]
 I am thy friend,
 
+[.signed-section-signature]
 John G. Sargent.
+
+--
 
 6th Month 24th.--Fifth-day.
 Left home in company with William C. and Lydia D. Meader +++[+++of New York State,
@@ -1053,8 +1186,13 @@ and over-turn that faith;--delivering this in substance,
 dear Sikke Evertsen interpreting.
 I came away relieved.
 
+[.offset]
 The following is an extract from a letter to his wife written about this time.
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Stavanger, 14th of 7th Month, 1880.
 
 I felt concerned at their not holding a meeting for
@@ -1069,6 +1207,8 @@ and before which nothing can stand to take the place thereof.
 But there is a hidden exercise which avails much, and I cannot doubt this lives at home,
 whilst we are here; and that she that tarries at home divides the spoil.
 I know we have your feeling desires for our help and preservation as we go along.
+
+--
 
 14th.--Made visits this afternoon to+++_______+++ and+++_______+++. After a
 time of seeking to get down to where nature is all silent,
