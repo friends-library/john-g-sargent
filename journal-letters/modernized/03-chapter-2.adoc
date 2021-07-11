@@ -156,7 +156,7 @@ To Lydia A. Barclay.^
 footnote:[Lydia Ann Barclay was born at Clapham in 1799.
 Her parents were Robert and Ann Barclay,
 the former being directly descended from Robert Barclay,
-the author of the Apology for the true Christian Divinity.
+the author of the [.book-title]#Apology for the True Christian Divinity.#
 Respecting her childhood but little is left on record;
 she appears to have been early favoured with the merciful visitations of heavenly love,
 by which her heart was tendered,
@@ -411,7 +411,7 @@ done in judgment upon me for thus stepping aside,
 then I trust I shall give heed to the smallest manifestation of the Truth,
 and no more consult with flesh and blood; not heeding what any may say.
 
-25th.--Chalons sur Saone.
+25th.--__Chalons sur Saone.__
 We sat down together at the Hotel.
 Dryness seemed my portion, yet some help or feeling of good was, I believe vouchsafed.
 Walked out by myself before dinner when I was led earnestly to crave a blessing,
@@ -987,7 +987,7 @@ and may not your visit there be esteemed as a favoured brook by the way.
 Yes George, through this vale of tears,
 there are refreshing streams for the weary traveller,
 and for the lonesome traveller journeying towards Zion.
-Have you read the Pilgrim`'s Progress?
+Have you read the [.book-title]#Pilgrim`'s Progress?#
 I am, while writing reminded of that: there are those on the way, who may,
 and do join us and go along with us, but all do not go all the way,
 the whole length of the journey; there are so many turns, so many by-paths,
@@ -1071,12 +1071,12 @@ for of him it may be truly said,
 that in respect to all questions affecting the welfare of the Society,
 his trumpet gave no uncertain sound.
 {footnote-paragraph-split}
-He was the author of the following works:--Life of John Pemberton;
-Select Historical Memoirs of the Religious Society of Friends;
-Selections from the Letters of Thomas B. Gould;
-The Lives of the Reformers and Martyrs before and after Luther;
-The Society of Friends in the Nineteenth Century,
-etc. besides several smaller publications.
+He was the author of the following works:--[.book-title]#Life of John Pemberton;#
+[.book-title]#Select Historical Memoirs of the Religious Society of Friends;#
+[.book-title]#Selections from the Letters of Thomas B. Gould;#
+[.book-title]#The Lives of the Reformers and Martyrs before and after Luther;#
+[.book-title]#The Society of Friends in the Nineteenth Century,
+etc.# besides several smaller publications.
 His pen was ever ready in defence of the original faith of the Society,
 and the last-named work which was published in 1875-6, in two volumes, is,
 as its title in full indicates,
@@ -1279,14 +1279,14 @@ though perhaps far between, to meet with; and then such can hold sweet converse 
 not say also the same in perusing the written memorial of a departed valiant,
 or the meekly obedient servant who has gone to his or her rest?
 
-The Examination,^
-footnote:[An Examination of the Memoirs and Writings of Joseph John Gurney,
+__The Examination,__^
+footnote:[[.book-title]#An Examination of the Memoirs and Writings of Joseph John Gurney,#
 by William Hodgson, Jr., Philadelphia, 1856, 145 pages.]
 I have read.
 It is well for us to have the whole truth,
 and it is always cheering to me to know of its being vindicated against error.
 I have been edified, I may say,
-in the perusal of this '`Examination`' with the sound views therein brought forward,
+in the perusal of this [.book-title]#Examination# with the sound views therein brought forward,
 of some of our early Friends.
 Would that these were not so trampled upon, as in this day they are, by many among us,
 who are not of us inasmuch as they have gone out from us, or never were of us.
@@ -1718,7 +1718,7 @@ I wish to be careful in what I commit to writing not to exceed my bounds,
 but your view of looking into,
 considering and dwelling upon the Queries and Advices is satisfactory to my mind,
 retaining the savoury and sound portions and omitting that which is otherwise.^
-footnote:[This remark refers to the 1834 edition of the rules of Discipline and Advices.]
+footnote:[This remark refers to the 1834 edition of the rules of [.book-title]#Discipline and Advices.#]
 I have long been of the mind that to make the acquaintance of (with the view of conferring
 with) those who are firm for the old land-marks of our Society was very desirable,
 but in my interaction with others, these I find are very few,
@@ -1893,12 +1893,12 @@ gradually breaks in on his mind in great condescension to his low state.
 
 I have sent you two pamphlets received lately from America.
 They are valuable.
-From that entitled Serious Review (Philadelphia, 1860), much instruction may be derived,
+From that entitled [.book-title]#Serious Review# (Philadelphia, 1860), much instruction may be derived,
 applicable to us as members of a divided religious community.
 I believe that clearness of apprehension,
 as to our position and the right course to pursue,
 is a valuable gift from the Giver of all good,
-and I have thought that the perusal of this Serious Review
+and I have thought that the perusal of this [.book-title]#Serious Review#
 has cleared up the grounds upon which we should rest.
 I was particularly struck with the force of a remark contained
 therein--that London Yearly Meeting was a separatist body--and
@@ -1913,7 +1913,7 @@ We had at our meeting this afternoon +++_______+++ of +++_______+++ who is
 on a religious visit to some of the meetings in this quarter.
 He stayed at our house,
 and in course of conversation I asked him if he had
-read the Journal and Correspondence of John Wilbur,
+read the [.book-title]#Journal and Correspondence of John Wilbur,#
 he replied, "`no.`" I recommended it to him.
 He said he had read a good deal of the controversy in the Friends`' periodicals,
 but had not time to read Wilbur`'s journal,
@@ -2255,9 +2255,9 @@ if you expect to escape with your lives from this great defection.
 I consider the proposed alterations in the discipline and queries,
 as merely the natural fruit of the seed sown in backsliding doctrines,
 which have taken root extensively in the soil of a cherished, worldly spirit.
-Sarah Alexander`'s Voice from the Wilderness^
+Sarah Alexander`'s [.book-title]#Voice from the Wilderness#^
 footnote:[Sarah Alexander, the wife of Samuel Alexander, of Leominster,
-was the author of a small publication of 63 pages, entitled A Voice from the Wilderness;
+was the author of a small publication of 63 pages, entitled [.book-title]#A Voice from the Wilderness;#
 being a brief review of the calling, progress,
 and present decline of the Society of Friends.
 It was published in 1860.
@@ -2974,7 +2974,7 @@ and we feel that we must testify against it;
 some are resolved to walk out of the meeting if feeling as already they have felt.
 They have lowered our testimony against the use of the names
 of heathen gods for the months and days of the week,
-by withdrawing the advices thereon from the Book of Extracts.
+by withdrawing the advices thereon from the [.book-title]#Book of Extracts.#
 But without much detail, which I feel unable to give you,
 or afraid lest I might do it incorrectly,
 I may say they have followed the heart`'s desire of the weak,
@@ -3118,9 +3118,9 @@ With love and earnest desires, I am your friend,
 John G. Sargent.
 
 1861+++.+++ 8th Month 25th.--Have felt strengthened and
-comforted in reading today at the Hotel de Gand,
-Samuel Rundall`'s Observations on the commencement and progress
-of the work of vital religion in the soul.
+comforted in reading today at the _Hotel de Gand,_
+Samuel Rundall`'s [.book-title]#Observations on the Commencement and Progress
+of the Work of Vital Religion in the Soul.#
 What a precious book this is! how it answers to my belief,
 and I humbly trust I can say in a measure to my experience! what
 food for the mind there is in the truths contained therein!
