@@ -73,6 +73,7 @@ and to endeavour to turn inward from all that may be of our own imagination or d
 Towards the close of the meeting John Hubbard stood up with the same,
 and explained that we ought to or must cease from our own inventions.
 
+[.offset]
 On the 27th he went again to Paris to consider further about business.
 
 3rd Month 25th.--When you are assailed with temptation,
@@ -85,6 +86,7 @@ Some friends from England were there.
 I believe it is good for me to receive in humility what is handed to me in the Light,
 and not to handle it: my own reasoning--the carnal mind, cannot please God.
 
+[.offset]
 4th Month 12th.--He returned again to England, not finding it his place to stay in Paris.
 
 4th Month 27th.--The thought has arisen this morning
@@ -601,7 +603,7 @@ when it is only the fruits of the natural part in man,
 and very captivating to the outward ear: but hearken,
 hearken awhile! and let us remember for our instruction, that,
 to "`hearken to the voice of the Lord,`" inwardly manifested,
-is better than all "`whole burnt offerings and sacrifices "`--those offerings
+is better than all "`whole burnt offerings and sacrifices`"--those offerings
 which are burned upon the altar of man`'s judgment and natural understanding,
 and sacrifices to the god of worldly wisdom and eloquence.
 
@@ -667,7 +669,6 @@ and that leads him out of his way,
 will fall upon them.--Therefore it concerns all to be watchful,
 and persevere in that which is good, to be as lights of the world,
 and as the salt of the earth indeed, that we may never leave shining nor lose our savour.
-
 Whatsoever was written afore time was written for our learning,
 and it is profitable to meditate and consider that many in former
 ages had much experience of the power and presence of the Lord,
@@ -678,7 +679,7 @@ nor did enjoy the end of the Lord in bringing them out of Egypt`'s land,
 and many may in this age fall short, as they did, if we walk not close with the Lord,
 and learn, by what is written, to take warning,
 lest by disobedience and unbelief we fall short of
-receiving the great recompense of reward.
+receiving the great recompense of reward.`"
 
 In conclusion, my friends,
 I would say in humility of soul before the Lord--Beware of the leaven,
@@ -705,8 +706,7 @@ falling away from first principles in our Society.
 Especially did she lament the superficial ministry consequent upon the change
 of doctrine which had gained ground among us.
 {footnote-paragraph-split}
-Her mind
-was much distressed with the changes taking place in the discipline,
+Her mind was much distressed with the changes taking place in the discipline,
 and in the year 1851 she believed the time had come
 to cease from attending the Yearly Meeting,
 and gradually withdrew from the attendance of any meetings for discipline,
@@ -737,8 +737,7 @@ as also with the solitary ones who meet in his name.
 My love to my friends remains undiminished.`"
 Our dear friend continued this practice as long as health permitted.
 {footnote-paragraph-split}
-In
-the year 1879 she had a very severe illness,
+In the year 1879 she had a very severe illness,
 wherein was remarkably displayed that He who had
 been her morning light was now her evening song;
 and although labouring under great bodily weakness,
@@ -747,10 +746,9 @@ and many tendering opportunities were experienced.
 Heavenly joy and peace filled her soul, and she was often heard to say, "`Oh,
 the love of God; it is inexpressible! beyond conception! yet what am I,
 a poor unworthy creature to be so favoured.`"
-"`Oh,
-if my testimony should encourage only one to persevere it is well worth all the suffering,
+"`Oh, if my testimony should encourage only one to persevere it is well worth all the suffering,
 and what is all this light affliction compared to what my precious
-Saviour endured when the sins of the whole world lay upon Him?
+Saviour endured when the sins of the whole world lay upon Him?`"
 "`It is almost more than human nature can bear to have such a foretaste of heaven,
 and if the foretaste is so precious, what must the reality be?`"
 Contrary to the expectation of all her friends, she was again raised up,
@@ -960,8 +958,8 @@ there is that to be felt with those who are endeavouring to walk in the same way
 which is like face answering to face in a glass.
 Is not this your experience?
 The oil will flow and overflow sometimes to the gladdening of one another`'s hearts,
-and is not this of the Lord?`"
-All my springs are in You,`" said one of old; and so it is in this day,
+and is not this of the Lord?
+"`All my springs are in You,`" said one of old; and so it is in this day,
 praised be the Lord,
 for verily we do know from a living experience that all good comes from Him,
 that our joy is in the Lord, and that "`He is the portion of our cup.`"
@@ -1294,7 +1292,8 @@ I desire your encouragement my dear friend;
 may your hands be always made strong by the mighty One,
 even by the hands of the mighty God of Jacob!
 And may you always be a fruitful bough to his praise,
-who can fit and qualify in every needful time My mind has been brought under
+who can fit and qualify in every needful time.
+My mind has been brought under
 much feeling in regard to the love of change now prevailing in our Society,
 I fear to our hurt,
 and the hindrance of a growth in the precious Truth to a very great extent.
@@ -2002,7 +2001,7 @@ will never flourish in the courts of the Lord`'s house, yes, says my soul,
 and may this never be, but only through and by the one everlasting Way, Christ Jesus,
 on whom, whosoever falls, shall be broken, and that savingly so,
 to the glory and honour of Him to whom it is due.
-Your account is truly interesting respecting +++_______+++
+Your account is truly interesting respecting +++_______+++.
 I can believe he stands very much alone,
 and would like well we were more acquainted.
 He did well to oppose the sentiments expressed so boldly.
@@ -2061,7 +2060,7 @@ and who bear our name as people of the same fold, but who have not yet entered i
 or have erred therefrom.
 
 And my spirit yearns and cries unto God, the God of our life,
-that He would be pleased to redeem his people from this cruel joke and bondage,
+that He would be pleased to redeem his people from this cruel yoke and bondage,
 which unless He be pleased to support us under it, or arise for our deliverance, must,
 I apprehend, crush us as a people.
 Unless the fathers and the mothers be faithful and stand fast,
@@ -3119,7 +3118,7 @@ John G. Sargent.
 
 1861+++.+++ 8th Month 25th.--Have felt strengthened and
 comforted in reading today at the _Hotel de Gand,_
-Samuel Rundall`'s [.book-title]#Observations on the Commencement and Progress
+Samuel Rundell`'s [.book-title]#Observations on the Commencement and Progress
 of the Work of Vital Religion in the Soul.#
 What a precious book this is! how it answers to my belief,
 and I humbly trust I can say in a measure to my experience! what
